@@ -1,0 +1,2218 @@
+{
+  "as_of": "2026-10-08",
+  "counts": {
+    "documents": 14,
+    "found": 94,
+    "kept": 55,
+    "dropped": 39,
+    "spend_not_reported": 43
+  },
+  "learnings": [
+    {
+      "id": "agora-2019-german-coal-commission-03",
+      "doc_id": "agora-2019-german-coal-commission",
+      "title": "Negotiated and auctioned compensation for early coal plant closures",
+      "country": "DE",
+      "programme": "Coal Commission compensation for power plant operators",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "mixed",
+      "problem": "Closing coal plants early required legal certainty and the agreement of plant operators.",
+      "solution": "Lignite closures are to be agreed with operators in negotiated contracts that include compensation and are then fixed by law, while hard coal closures from 2023 to 2030 are decided by competitive bidding. If no deal is reached by 30 June 2020, the government is to impose a closure schedule with compensation.",
+      "implementer": "German federal government",
+      "delivery_partners": [
+        "Coal power plant operators"
+      ],
+      "funding": "Federal budget.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Agora estimates compensation at 5 to 10 billion euros, limited by EU state aid law; critics argue the payments are not legally required, while Agora expects bidding to set hard coal compensation efficiently.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "Any Serbian payments linked to early closure of lignite units would fall under Energy Community state aid rules, which also limited German compensation. The mix of negotiation and auctions offers a template for setting amounts.",
+      "adapt_needed": "Because Serbia's lignite plants are state-owned, compensation design would need to focus on worker and regional costs rather than operator profits.",
+      "blockers": "Tight public finances and state aid scrutiny under the Energy Community Treaty could restrict compensation.",
+      "source_url": "https://www.agora-energiewende.org/fileadmin/Projekte/2019/Kohlekommission_Ergebnisse/168_Kohlekommission_EN.pdf",
+      "page": 45,
+      "quote": "On the basis of European state aid law, however, it can be assumed that compensation payments will only be made available to a limited extent, over a limited period of time, and are also degressive. In total, the compensation paid to all power plants is thus likely to be between 5 and 10 billion euros.",
+      "source_quality": "B"
+    },
+    {
+      "id": "agora-2019-german-coal-commission-06",
+      "doc_id": "agora-2019-german-coal-commission",
+      "title": "Continue CHP support to replace coal plants supplying district heat",
+      "country": "DE",
+      "programme": "Combined Heat and Power Act",
+      "theme": "district_heating",
+      "maturity": "scaled",
+      "outcome": "success",
+      "problem": "Coal CHP plants supplied 33.5 TWh of district heating in 2017, so closing them risked heat supply.",
+      "solution": "The Commission recommends continuing the Combined Heat and Power Act until 2030 to promote replacing coal plants with CHP facilities, while moving support towards flexible CHP systems.",
+      "implementer": "German federal government",
+      "delivery_partners": [
+        "CHP plant operators"
+      ],
+      "funding": "Support payments under the Combined Heat and Power Act.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "113 of 145 coal units can co-generate heat; Agora's modelling assumes gas-fired CHP replaces coal heat, and continued CHP support is one of the safeguards for supply security during the exit.",
+      "serbia_factors": [
+        "coal_power",
+        "district_heating"
+      ],
+      "serbia_reason": "Many Serbian towns get district heat from coal or lignite-fired plants, so a lignite exit must plan replacement heat supply. Germany links coal closures to supported conversion of heat generation.",
+      "adapt_needed": "Serbia would need to steer conversion towards flexible, low-carbon heat sources rather than locking in gas.",
+      "blockers": "Low regulated heat tariffs and indebted municipal heating companies limit investment in new CHP.",
+      "source_url": "https://www.agora-energiewende.org/fileadmin/Projekte/2019/Kohlekommission_Ergebnisse/168_Kohlekommission_EN.pdf",
+      "page": 27,
+      "quote": "In order to ensure a sufficient supply of heat energy, the Combined Heat and Power Act is to be continued until 2030 and, among other things, the replacement of coal-fired power plants with CHP facilities is to be promoted. At the same time, however, the government support system is to be further developed in the direction of flexible CHP systems.",
+      "source_quality": "B"
+    },
+    {
+      "id": "agora-2019-german-coal-commission-07",
+      "doc_id": "agora-2019-german-coal-commission",
+      "title": "Cancel EU ETS allowances freed by coal closures to avoid leakage",
+      "country": "DE",
+      "programme": "Cancellation of EU ETS allowances (Coal Commission)",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "success",
+      "problem": "Under the EU emissions trading system, national coal closures can free allowances that let emissions rise elsewhere (a waterbed effect).",
+      "solution": "The Commission recommends that the federal government cancel the quantity of EU ETS allowances freed by the coal exit, and examine carbon pricing in sectors outside the ETS.",
+      "implementer": "German federal government",
+      "delivery_partners": [],
+      "funding": "Federal budget.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Agora estimates cancellation will cost 3 to 4 billion euros and finds that, with coal replaced mainly by domestic renewables, displacement of emissions abroad can be almost completely avoided.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "As Serbia aligns with EU carbon pricing and faces CBAM, its coal closures will interact with ETS rules in the same way. Germany shows how to make a national coal exit count inside the EU carbon market.",
+      "adapt_needed": "Serbia would first need a carbon pricing system linked to the EU ETS before cancelling allowances becomes relevant.",
+      "blockers": "Serbia has no emissions trading system yet, so this tool applies only after ETS alignment.",
+      "source_url": "https://www.agora-energiewende.org/fileadmin/Projekte/2019/Kohlekommission_Ergebnisse/168_Kohlekommission_EN.pdf",
+      "page": 50,
+      "quote": "Since the phase-out of coal-fired power generation is to be replaced primarily by domestic renewable energy and the CO 2 certificates that are freed up will be cancelled, the displacement of CO 2 emissions abroad can be almost completely avoided.",
+      "source_quality": "B"
+    },
+    {
+      "id": "agora-2021-western-balkans-lignite-exit-01",
+      "doc_id": "agora-2021-western-balkans-lignite-exit",
+      "title": "Serbia's direct lignite subsidies rival the support renewables would need",
+      "country": "RS",
+      "programme": "Direct subsidies to lignite electricity producers",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "Serbia's ageing, inefficient lignite plants depend on government subsidies to keep operating.",
+      "solution": "The state pays direct subsidies to lignite electricity producers; the study compares these with the support renewables would need to replace lignite.",
+      "implementer": "Government of Serbia",
+      "delivery_partners": [],
+      "funding": "Public money paid as direct subsidies to coal and lignite electricity production.",
+      "spend_reported": 41360000,
+      "currency": "EUR",
+      "spend_year": 2019,
+      "spend_scope": "public",
+      "spend_eur": 41360000,
+      "results": "Direct lignite subsidies reached 41.36 million EUR in Serbia in 2019, against 22.71 million EUR in Bosnia and Herzegovina and 6.59 million EUR in Kosovo. The study finds the support renewables would need to replace lignite is of a comparable size.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility"
+      ],
+      "serbia_reason": "Serbia paid the region's largest direct lignite subsidies in 2019, supporting the lignite generation of its state-owned utility EPS. Redirecting this money is a ready funding lever for renewables.",
+      "adapt_needed": "Subsidy flows to lignite generation would need to be made transparent and gradually shifted into renewable support schemes.",
+      "blockers": "Subsidies protect mining jobs and low power prices, so cutting them is politically sensitive.",
+      "source_url": "https://www.agora-energiewende.org/fileadmin/Projekte/2020/2020-03_WB-6_Coal_Phase-Out/A-EW_225_Future-Lignite-Western-Balkans_WEB_1.pdf",
+      "page": 10,
+      "quote": "The financial RES support needs are comparable to current estimates of direct subsidies provided to lignite electricity producers. In 2019, the lignite subsidies amounted to 22.71 million EUR in Bosnia and Herzegovina, 6.59 million EUR in Kosovo and 41.36 million EUR in Serbia (Miljevic, 2020).",
+      "source_quality": "B"
+    },
+    {
+      "id": "agora-2021-western-balkans-lignite-exit-02",
+      "doc_id": "agora-2021-western-balkans-lignite-exit",
+      "title": "Serbia's planned Kostolac B3 and Kolubara B1 lignite units risk losses",
+      "country": "RS",
+      "programme": "Kostolac B3 and Kolubara B1 new lignite units",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "Serbia is adding new lignite capacity while carbon pricing and the EU carbon border adjustment threaten lignite revenues.",
+      "solution": "Serbia is pursuing two new lignite units, Kostolac B3 (at an advanced stage) and Kolubara B1, part of about 2 GW of new lignite planned in the region.",
+      "implementer": "Electric Power Industry of Serbia (EPS) and the Government of Serbia",
+      "delivery_partners": [],
+      "funding": "The study says the region's planned lignite units rely on Chinese or unclear financing.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Both Serbian projects have a positive net present value only without carbon pricing; a carbon border adjustment worsens their economics and an ETS phase-in makes all planned lignite units unprofitable. The 2 GW planned in the region would, if built, generate a cumulative loss by 2040.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "These are Serbia's own new lignite investments by its state utility EPS. Their value hinges on CBAM and on carbon pricing adopted through the Energy Community.",
+      "adapt_needed": "Remaining spending decisions would need to be re-tested against CBAM and ETS carbon prices, plant by plant.",
+      "blockers": "Kostolac B3 is already at an advanced stage, so sunk costs and contracts push towards completing it.",
+      "source_url": "https://www.agora-energiewende.org/fileadmin/Projekte/2020/2020-03_WB-6_Coal_Phase-Out/A-EW_225_Future-Lignite-Western-Balkans_WEB_1.pdf",
+      "page": 72,
+      "quote": "With a CBA, the economic situation for plants gets worse; if the ETS is phased in, all planned lignite power plants turn net negative and hence are unprofitable. Consequently, any form of carbon pricing (at the border via a CBA or through an ETS phase-in) poses a major risk for the economics of new lignite plants in the region.",
+      "source_quality": "B"
+    },
+    {
+      "id": "agora-2021-western-balkans-lignite-exit-03",
+      "doc_id": "agora-2021-western-balkans-lignite-exit",
+      "title": "Bosnia's planned Kakanj 8 and Gacko 2 units unprofitable in every scenario",
+      "country": "BA",
+      "programme": "Kakanj G8 and Gacko 2 new lignite units",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "Bosnia and Herzegovina plans new lignite units although its mines are small and among the most cost-intensive in the region.",
+      "solution": "National plans include new lignite units Kakanj G8 and Gacko 2 as part of the roughly 2 GW of new lignite planned in the region.",
+      "implementer": "Bosnia and Herzegovina governments and power utilities (project sponsors)",
+      "delivery_partners": [],
+      "funding": "The study says the region's planned lignite units rely on Chinese or unclear financing.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "The study's net present value analysis finds Kakanj G8 and Gacko 2 loss-making in all scenarios, even without carbon pricing. It attributes losses to low mining efficiency, air pollution compliance costs and limited exports under the EU carbon border adjustment.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "Serbia's new lignite faces the same Energy Community pollution rules and CBAM exposure on exports. A neighbour's projects failing even before carbon pricing shows the risk of locking in new lignite.",
+      "adapt_needed": "Serbia's cheaper mines change the numbers, so the same test would need to be run with Serbian plant and mine cost data.",
+      "blockers": "The projects remain in national strategies and political support for lignite jobs is strong.",
+      "source_url": "https://www.agora-energiewende.org/fileadmin/Projekte/2020/2020-03_WB-6_Coal_Phase-Out/A-EW_225_Future-Lignite-Western-Balkans_WEB_1.pdf",
+      "page": 72,
+      "quote": "Figure 56 illustrates the results of the economic assessment of the proposed lignite projects in the region. Notably, Kakanj G8 and Gacko 2 have a negative NPV in all scenarios.",
+      "source_quality": "B"
+    },
+    {
+      "id": "agora-2021-western-balkans-lignite-exit-04",
+      "doc_id": "agora-2021-western-balkans-lignite-exit",
+      "title": "Energy Community pollution limits breached, forcing refurbish-or-close decisions by 2028",
+      "country": "RS",
+      "programme": "Energy Community Large Combustion Plants Directive (NERP and opt-out derogations)",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "Western Balkan lignite plants, including Serbia's ageing 4 GW fleet, emit far more SO2, NOx and dust than the applicable limits allow.",
+      "solution": "The Energy Community Treaty adopted EU large combustion plant limits with three routes: a National Emission Reduction Plan (NERP), an opt-out with 20,000 operating hours, or direct compliance. Together they set 2028 as the deadline for plant-level compliance with stricter EU IED limits.",
+      "implementer": "Energy Community and national governments of the Contracting Parties",
+      "delivery_partners": [
+        "Lignite power plant operators"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Nearly all units exceeded their 2018 limits, with Kakanj in Bosnia and Herzegovina emitting 17 times its SO2 ceiling, and most opted-out units had already used more than their share of operating hours in 2018. The plants' pollution is linked to up to 3,000 premature deaths a year in the region.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "Serbia is bound by these Energy Community obligations, which make 2028 the plant-level compliance deadline. Every Serbian lignite unit expected to run beyond 2028 needs a refurbish-or-close decision now.",
+      "adapt_needed": "Serbia would need a unit-by-unit plan that matches refurbishment spending to each unit's expected remaining operating years.",
+      "blockers": "Refurbishing old units is costly and weak enforcement has so far allowed limits to be exceeded.",
+      "source_url": "https://www.agora-energiewende.org/fileadmin/Projekte/2020/2020-03_WB-6_Coal_Phase-Out/A-EW_225_Future-Lignite-Western-Balkans_WEB_1.pdf",
+      "page": 24,
+      "quote": "Combined, they effectively imply a 2028 final deadline for plant-level compliance with the newer and stricter EU IED via LCP BREF limits. Considering the poor compliance performance of the operational fleet today, any compliant operation beyond 2028 will require significant refurbishment and investment.",
+      "source_quality": "B"
+    },
+    {
+      "id": "agora-2021-western-balkans-lignite-exit-05",
+      "doc_id": "agora-2021-western-balkans-lignite-exit",
+      "title": "Serbia's lignite-centred energy plans exposed to carbon pricing costs",
+      "country": "RS",
+      "programme": "Energy Sector Development Strategy of the Republic of Serbia to 2025 (projections to 2030)",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "Serbia's current plans keep lignite central through retrofits and new units, with only slow growth of renewables.",
+      "solution": "Continuing current national energy planning: modernising existing lignite units to extend their lifetimes and meet pollution rules, building planned new units and expanding renewables slowly.",
+      "implementer": "Ministry of Mining and Energy of Serbia",
+      "delivery_partners": [
+        "Electric Power Industry of Serbia (EPS)"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "With an ETS phase-in, the study finds a renewables-led path cuts Serbia's cumulative generation costs by over 30 bn € compared with current plans. Under current plans, Serbia's investment of 8.9 bn € by 2050 is concentrated on lignite and gas.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "This is Serbia's own strategy, and its main risk comes from CBAM and possible ETS alignment under the Energy Community. Keeping lignite central would pass rising carbon costs to consumers.",
+      "adapt_needed": "The national strategy would need to be stress-tested against CBAM and ETS carbon prices before further lignite investment.",
+      "blockers": "Serbia's lignite is the cheapest in the region, which makes the fossil path look affordable until carbon pricing applies.",
+      "source_url": "https://www.agora-energiewende.org/fileadmin/Projekte/2020/2020-03_WB-6_Coal_Phase-Out/A-EW_225_Future-Lignite-Western-Balkans_WEB_1.pdf",
+      "page": 8,
+      "quote": "The current Fossil strategy is, therefore, very vulnerable to a future phase-in of ETS, which would result in sharply rising generation costs and increasing consumer prices.",
+      "source_quality": "B"
+    },
+    {
+      "id": "agora-2021-western-balkans-lignite-exit-06",
+      "doc_id": "agora-2021-western-balkans-lignite-exit",
+      "title": "Financial de-risking cuts Serbian onshore wind costs by a fifth",
+      "country": "RS",
+      "programme": "Western Balkans Guarantee Facility (Western Balkans Investment Framework)",
+      "theme": "renewables",
+      "maturity": "emerging",
+      "outcome": "success",
+      "problem": "A high cost of capital in South East Europe (around 12 per cent) makes renewable projects far more expensive to finance than in Germany.",
+      "solution": "The EU is offering budget guarantees to de-risk renewable investment, including a Western Balkans Guarantee Facility under the Western Balkans Investment Framework, part of the Economic and Investment Plan.",
+      "implementer": "European Commission",
+      "delivery_partners": [
+        "Western Balkans Investment Framework"
+      ],
+      "funding": "EU budget guarantees; the Economic and Investment Plan aims to mobilise up to EUR 9 billion of IPA III grants for the region in 2021-2027.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Cited analysis finds financial de-risking lowers the levelised cost of onshore wind in Serbia by 20 per cent. Cutting the cost of capital from 12 to 3.5 per cent would let twice as much onshore wind be built with the same capital.",
+      "serbia_factors": [
+        "coal_power",
+        "ifi_funding"
+      ],
+      "serbia_reason": "Serbia can draw on WBIF and IPA III guarantees to cut the financing cost of wind and solar. The study presents low-cost renewables as the realistic replacement for its old lignite plants.",
+      "adapt_needed": "Serbia would need bankable auction or contract schemes so that guarantees can be attached to individual projects.",
+      "blockers": "Permitting, grid access and investor risk perceptions may limit how much guarantees lower costs.",
+      "source_url": "https://www.agora-energiewende.org/fileadmin/Projekte/2020/2020-03_WB-6_Coal_Phase-Out/A-EW_225_Future-Lignite-Western-Balkans_WEB_1.pdf",
+      "page": 14,
+      "quote": "Low cost renewable energy projects are thus a real alternative for replacing old and polluting lignite power plants. As shown elsewhere, financial derisking have a considerable impact on RES financing costs, for example lowering the LCOE of onshore wind projects in Serbia by 20 per cent.",
+      "source_quality": "B"
+    },
+    {
+      "id": "agora-2021-western-balkans-lignite-exit-07",
+      "doc_id": "agora-2021-western-balkans-lignite-exit",
+      "title": "Kosovo C lignite plant repeatedly abandoned but kept in national plans",
+      "country": "XK",
+      "programme": "Kosovo C (Kosova e Re) lignite power plant",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "Kosovo relies almost exclusively on lignite from units older than 30 years.",
+      "solution": "The government has kept the new Kosovo C lignite plant in national plans as a political priority despite the project being repeatedly abandoned.",
+      "implementer": "Government of Kosovo",
+      "delivery_partners": [],
+      "funding": "Financing has not been secured; the study cites well-founded doubts that it can be re-secured.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "The study doubts the project can re-secure financing; its net present value is positive only without carbon pricing and turns negative if an ETS is phased in.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "Like Serbia, Kosovo is an Energy Community party whose new lignite would face the EU CBAM on exports. It shows how a politically favoured coal project can stall for years once financing falls away.",
+      "adapt_needed": "Serbia would need to confirm that any planned lignite unit has secure, carbon-price-tested financing before committing public resources.",
+      "blockers": "Political attachment to lignite as a domestic resource keeps such projects in national plans.",
+      "source_url": "https://www.agora-energiewende.org/fileadmin/Projekte/2020/2020-03_WB-6_Coal_Phase-Out/A-EW_225_Future-Lignite-Western-Balkans_WEB_1.pdf",
+      "page": 32,
+      "quote": "This approach would require the commissioning of the repeatedly abandoned Kosovo C project because it is still favored politically and included in national plans – despite increasingly well-founded doubts that this project could actually re-secure financing (Balkan Green Energy News, 2020).",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2023-district-heating-investment-01",
+      "doc_id": "bankwatch-2023-district-heating-investment",
+      "title": "EBRD ReDEWeB studies reached many towns but few projects advanced",
+      "country": "RS",
+      "programme": "Renewable District Energy in the Western Balkans (ReDEWeB)",
+      "theme": "district_heating",
+      "maturity": "piloted",
+      "outcome": "mixed",
+      "problem": "Western Balkan cities, where 97 per cent of district heat comes from fossil fuels, lacked the plans and studies needed to attract investment in renewable heat.",
+      "solution": "From 2019 the EBRD, backed by Austria's Federal Ministry of Finance, funded district heating decarbonisation plans and feasibility studies and worked on regulatory frameworks for investors.",
+      "implementer": "EBRD",
+      "delivery_partners": [
+        "Austrian Federal Ministry of Finance",
+        "Municipalities and district heating companies"
+      ],
+      "funding": "A EUR 4 million regional technical assistance programme backed by the Austrian Federal Ministry of Finance.",
+      "spend_reported": 4000000,
+      "currency": "EUR",
+      "spend_year": 2019,
+      "spend_scope": "public",
+      "spend_eur": 4000000,
+      "results": "It worked with 11 cities in Serbia, four in Bosnia and Herzegovina and one each in Albania and Montenegro, but only a select few municipalities made progress. Bankwatch calls the regional dynamic not satisfactory.",
+      "serbia_factors": [
+        "district_heating",
+        "ifi_funding"
+      ],
+      "serbia_reason": "Most participating cities are Serbian, so the slow conversion of studies into investments directly affects Serbian heat utilities.",
+      "adapt_needed": "Fund project preparation through to a bankable investment, and bundle small towns' projects, rather than stopping at feasibility studies.",
+      "blockers": "Small towns' weak finances, limited technical capacity and complex financing schemes.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2023/10/2023_10_16_Scaling-up-investments-in-the-decarbonisation-of-district-heating.pdf",
+      "page": 6,
+      "quote": "Despite the provision of funding across the Western Balkans for numerous feasibility studies through the ReDEWeB programme, progress has been made by only a select few of the municipalities.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2023-district-heating-investment-02",
+      "doc_id": "bankwatch-2023-district-heating-investment",
+      "title": "EBRD sovereign loan funds renewable district heating in 11 Serbian towns",
+      "country": "RS",
+      "programme": "Renewable District Energy (ReDE) Serbia",
+      "theme": "district_heating",
+      "maturity": "emerging",
+      "outcome": "mixed",
+      "problem": "Serbian district heating companies run mostly on fossil fuels and lack capital to add renewable heat sources.",
+      "solution": "An EBRD sovereign loan to the Republic of Serbia, topped up with Swiss and EU grants, finances small and medium projects (EUR 1–9 million) in district heating companies using geothermal, solar thermal, biogas, biomass and waste heat.",
+      "implementer": "Government of Serbia with municipal district heating companies",
+      "delivery_partners": [
+        "EBRD",
+        "Swiss government",
+        "European Union"
+      ],
+      "funding": "EBRD sovereign loan of up to EUR 30 million, plus a EUR 8.5 million Swiss grant and a EUR 3 million EU grant.",
+      "spend_reported": 30000000,
+      "currency": "EUR",
+      "spend_year": 2023,
+      "spend_scope": "public",
+      "spend_eur": 30000000,
+      "results": "The project covers 11 Serbian cities and municipalities over four years, with expected lower energy costs and better energy security. Bankwatch notes many small Serbian towns need smaller EUR 1–3 million investments and face economic, knowledge and administrative burdens.",
+      "serbia_factors": [
+        "district_heating",
+        "ifi_funding"
+      ],
+      "serbia_reason": "This is Serbia's main development-bank financing line for renewable district heating. Its design and pace show what Serbian heat utilities can realistically absorb.",
+      "adapt_needed": "Group small towns' projects so they reach a bankable size and add dedicated project preparation support.",
+      "blockers": "Limited debt capacity of small municipalities and slow project preparation.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2023/10/2023_10_16_Scaling-up-investments-in-the-decarbonisation-of-district-heating.pdf",
+      "page": 5,
+      "quote": "Additionally, the Renewable District Energy (ReDE) project, which consists of a sovereign loan of up to EUR 30 million to the Republic of Serbia to finance investments in several district heating companies, involves 11 cities and municipalities in Serbia.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2023-district-heating-investment-03",
+      "doc_id": "bankwatch-2023-district-heating-investment",
+      "title": "Pristina secures EUR 54 million grant for solar district heating",
+      "country": "XK",
+      "programme": "Big Solar Pristina",
+      "theme": "district_heating",
+      "maturity": "emerging",
+      "outcome": "success",
+      "problem": "Pristina needed a renewable heat source to expand its district heating network.",
+      "solution": "A 58,000 m2 solar collector field with 410,000 m3 of seasonal heat storage and an absorption heat pump, plus an extension of the district heating network by 2028.",
+      "implementer": "Government of Kosovo and Pristina municipality",
+      "delivery_partners": [
+        "WBIF",
+        "KfW",
+        "EBRD"
+      ],
+      "funding": "A EUR 54 million grant from the WBIF and KfW, with an EBRD loan agreement signed in 2022.",
+      "spend_reported": 54000000,
+      "currency": "EUR",
+      "spend_year": 2022,
+      "spend_scope": "public",
+      "spend_eur": 54000000,
+      "results": "Grant and loan financing were secured in 2022, making Pristina one of the few ReDEWeB cities to reach a contract; the network extension is due by 2028.",
+      "serbia_factors": [
+        "district_heating",
+        "ifi_funding"
+      ],
+      "serbia_reason": "Serbian heat utilities can tap the same WBIF and KfW channels for large solar thermal with seasonal storage. It shows a non-biomass renewable option for a Western Balkan capital's heat network.",
+      "adapt_needed": "Find land near the network for collectors and storage and size the plant to local heat demand.",
+      "blockers": "Land availability near cities and high upfront capital cost.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2023/10/2023_10_16_Scaling-up-investments-in-the-decarbonisation-of-district-heating.pdf",
+      "page": 5,
+      "quote": "In 2022, Kosovo received a grant of EUR 54 million from the WBIF and KfW to finance the construction of the Big Solar Pristina project.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2023-district-heating-investment-04",
+      "doc_id": "bankwatch-2023-district-heating-investment",
+      "title": "Sarajevo Canton approves EUR 50 million wastewater heat pump district heating",
+      "country": "BA",
+      "programme": "Sarajevo Canton district heating heat pump project",
+      "theme": "district_heating",
+      "maturity": "emerging",
+      "outcome": "success",
+      "problem": "Sarajevo's district heating needed a low-carbon heat source.",
+      "solution": "The cantonal government approved two 38 MW industrial heat pumps using wastewater heat, developed in partnership with the EBRD, with a WBIF grant application in preparation.",
+      "implementer": "Government of Sarajevo Canton",
+      "delivery_partners": [
+        "EBRD",
+        "WBIF"
+      ],
+      "funding": "A EUR 50 million project developed with the EBRD; a EUR 15 million WBIF grant application for capital costs is in preparation.",
+      "spend_reported": 50000000,
+      "currency": "EUR",
+      "spend_year": 2023,
+      "spend_scope": "total",
+      "spend_eur": 50000000,
+      "results": "Approved in 2023; the feasibility study is complete, phase 1 funds are secured and the loan agreement was planned for 2024.",
+      "serbia_factors": [
+        "district_heating",
+        "ifi_funding"
+      ],
+      "serbia_reason": "Serbian towns such as Vršac and Kruševac have similar wastewater heat pump projects in the EBRD ReDEWeB pipeline. Sarajevo shows how a city can move such a project to approval.",
+      "adapt_needed": "Map wastewater and other waste heat sources near each Serbian network and match heat pump size to them.",
+      "blockers": "High upfront capital cost and electricity price exposure for large heat pumps.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2023/10/2023_10_16_Scaling-up-investments-in-the-decarbonisation-of-district-heating.pdf",
+      "page": 5,
+      "quote": "In 2023, the Government of the Sarajevo Canton in Bosnia and Herzegovina approved a capital district heating project of EUR 50 million.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2025-biomass-district-heating-01",
+      "doc_id": "bankwatch-2025-biomass-district-heating",
+      "title": "KfW-backed biomass heating in Serbian towns delivers four of ten plants",
+      "country": "RS",
+      "programme": "Promotion of Renewable Energy – Development of the Biomass Market in Serbia",
+      "theme": "district_heating",
+      "maturity": "piloted",
+      "outcome": "mixed",
+      "problem": "Serbian municipal district heating companies burned fossil fuels and needed a renewable heat source.",
+      "solution": "German development bank KfW and the Swiss government financed a switch of municipal heating plants from fossil fuels to wood biomass, with financing agreements signed in 2017. A second phase was signed with the European Commission and the German government in May 2024.",
+      "implementer": "Municipal district heating companies in Serbia, supported by KfW and GIZ",
+      "delivery_partners": [
+        "KfW",
+        "GIZ",
+        "Swiss government",
+        "European Commission"
+      ],
+      "funding": "Phase 1 was financed by KfW and the Swiss government; phase 2 agreements worth EUR 31.9 million in grants and loans were signed in May 2024 by the European Commission, KfW and the German government.",
+      "spend_reported": 27000000,
+      "currency": "EUR",
+      "spend_year": 2017,
+      "spend_scope": "public",
+      "spend_eur": 27000000,
+      "results": "By May 2024 four plants (Priboj, Mali Zvornik, Novi Pazar, Majdanpek) were complete, although the EUR 27 million first phase was meant to cover ten. In July 2024, 41 environmental organisations asked KfW to suspend the programme over forest, climate and air impacts.",
+      "serbia_factors": [
+        "district_heating",
+        "ifi_funding"
+      ],
+      "serbia_reason": "This is Serbia's own flagship programme for switching municipal heat networks to biomass with KfW and EU money. Its slow delivery is a direct warning for the second phase, expected to cover Niš, Bajina Bašta, Prijepolje, Novi Pazar and Rača.",
+      "adapt_needed": "Size each plant to verified, sustainable local wood supply and favour heat pumps, solar thermal or geothermal where supply is uncertain.",
+      "blockers": "Limited sustainable wood, competition with households for fuelwood and weak forest data and enforcement.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2025/01/2025_01_Unmasking-the-biomass-dilemma-in-Serbia-and-Bosnia-and-Herzegovina.pdf",
+      "page": 18,
+      "quote": "By May 2024, four biomass district heating plants in Serbia, located in Priboj, Mali Zvornik, Novi Pazar, and Majdanpek, had been completed",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2025-biomass-district-heating-02",
+      "doc_id": "bankwatch-2025-biomass-district-heating",
+      "title": "Banja Luka's EBRD-funded biomass heating plant hit by fuel shortages",
+      "country": "BA",
+      "programme": "EBRD Green Cities Framework – Banja Luka District Heating",
+      "theme": "district_heating",
+      "maturity": "piloted",
+      "outcome": "failure",
+      "problem": "Banja Luka's district heating ran on heavy fuel oil and needed a cleaner fuel.",
+      "solution": "In 2017 the EBRD helped finance a 49 MWth wood-biomass heating plant, run by Eko Toplane, with wood bought from forest concessionaires.",
+      "implementer": "Eko Toplane, owned 51% by IEE Banja Luka and 49% by the City of Banja Luka",
+      "delivery_partners": [
+        "EBRD",
+        "City of Banja Luka",
+        "Forest concessionaires"
+      ],
+      "funding": "A 16.4 million investment including an EBRD loan of EUR 8.3 million, later propped up by city subsidies.",
+      "spend_reported": 8300000,
+      "currency": "EUR",
+      "spend_year": 2017,
+      "spend_scope": "public",
+      "spend_eur": 8300000,
+      "results": "Supply fell 58 per cent short of demand in the 2022 season and the city paid BAM 7 million (around EUR 3.5 million) in subsidies between 2022 and May 2024. Heating costs still rose 23 per cent in 2023-4, and 140 users asked to disconnect in the first five months of 2024.",
+      "serbia_factors": [
+        "district_heating",
+        "ifi_funding"
+      ],
+      "serbia_reason": "Serbian towns are planning similar development-bank-financed switches from fuel oil to wood biomass. Banja Luka shows the supply, price and subsidy risks of that model next door.",
+      "adapt_needed": "Secure long-term, verified biomass supply and stress-test heat tariffs before financing, or choose non-biomass heat sources.",
+      "blockers": "An unstable, partly illegal wood market and municipal budgets that cannot keep covering operating losses.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2025/01/2025_01_Unmasking-the-biomass-dilemma-in-Serbia-and-Bosnia-and-Herzegovina.pdf",
+      "page": 22,
+      "quote": "Since 2018, the company operating the plant, Eko Toplane, has faced severe issues with the regularity and consistency of biomass delivery. This problem culminated in a 58 per cent gap between supply and demand for the 2022 season.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2025-biomass-district-heating-03",
+      "doc_id": "bankwatch-2025-biomass-district-heating",
+      "title": "Converting Tuzla coal unit to biomass would need far more land",
+      "country": "BA",
+      "programme": "Tuzla Unit 3 coal-to-biomass conversion",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "An old coal-fired unit at the Tuzla power plant, which produces both power and heat, needs replacing.",
+      "solution": "In 2022 the entity-owned utility Elektroprivreda BiH and the EBRD agreed to consider converting Unit 3 to burn willow from short-rotation plantations on former mine land, plus waste incineration.",
+      "implementer": "Elektroprivreda BiH (EPBiH), entity-owned power utility",
+      "delivery_partners": [
+        "EBRD"
+      ],
+      "funding": "The EBRD signed a mandate letter in September 2022 to consider financing; no amount is reported.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "EPBiH plans 1,075 hectares of willow at former mines, but Biofuelwatch estimates 6,042 hectares would be needed, 5.6 times more. Bankwatch judges the plan will not cut BiH's climate impact significantly and is not viable.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "district_heating",
+        "ifi_funding"
+      ],
+      "serbia_reason": "Serbia's state utility also runs ageing lignite units, some of which supply heat to nearby towns. Tuzla shows how badly fuel and land needs can be underestimated when converting coal units to biomass.",
+      "adapt_needed": "Base any coal-unit conversion on an independent assessment of sustainable feedstock and compare it with heat pumps, solar thermal and storage.",
+      "blockers": "Too little sustainable biomass and weak forest governance to fuel a large converted unit.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2025/01/2025_01_Unmasking-the-biomass-dilemma-in-Serbia-and-Bosnia-and-Herzegovina.pdf",
+      "page": 23,
+      "quote": "However, this plan will not help reduce BiH’s climate impact significantly and will require much more land for the SRC plantations than currently projected.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2025-biomass-district-heating-06",
+      "doc_id": "bankwatch-2025-biomass-district-heating",
+      "title": "Serbia's planned biomass district heating would use almost all spare wood",
+      "country": "RS",
+      "programme": "Serbia NECP 2024 – biomass in district heating",
+      "theme": "district_heating",
+      "maturity": "emerging",
+      "outcome": "mixed",
+      "problem": "Serbia's district heating relies heavily on fossil gas and the country must raise its renewable share under Energy Community 2030 targets.",
+      "solution": "The July 2024 NECP plans more biomass and some solar heat in district heating, and towns have lined up biomass heating projects to 2030.",
+      "implementer": "Government of Serbia and municipal district heating companies",
+      "delivery_partners": [
+        "EBRD",
+        "Hill International"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "An EBRD assessment found only 33.6 ktoe (390.4 GWh) of wood left after existing uses, and biomass heating projects planned to 2030 (369.67 GWh) would use almost all of it. The NECP itself cites limited sustainable wood as one reason Serbia cannot meet its 2030 Energy Community renewables target.",
+      "serbia_factors": [
+        "eu_accession",
+        "district_heating"
+      ],
+      "serbia_reason": "This is Serbia's current national plan for heat under its Energy Community targets. The evidence shows biomass cannot be the main route to cleaner district heating.",
+      "adapt_needed": "Shift planned biomass capacity towards heat pumps, solar thermal, geothermal, seasonal storage and building efficiency.",
+      "blockers": "Unreliable forest data, illegal logging and households' heavy dependence on fuelwood.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2025/01/2025_01_Unmasking-the-biomass-dilemma-in-Serbia-and-Bosnia-and-Herzegovina.pdf",
+      "page": 16,
+      "quote": "Recent data confirms that towns in Serbia cannot rely on woody biomass for additional district heating needs.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2026-comply-or-close-01",
+      "doc_id": "bankwatch-2026-comply-or-close",
+      "title": "Serbia's emission reduction plan fails as EPS coal plants breach ceilings",
+      "country": "RS",
+      "programme": "National Emission Reduction Plan (NERP) under the Large Combustion Plants Directive",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "Serbia's ageing EPS lignite plants emit far more sulphur dioxide, dust and nitrogen oxides than the Large Combustion Plants Directive allows.",
+      "solution": "Instead of plant-by-plant limits from 2018, Serbia adopted a NERP with national emission ceilings that tighten until 2027, relying on EPS desulphurisation and other pollution-control investments.",
+      "implementer": "Government of Serbia (Ministry for Environmental Protection)",
+      "delivery_partners": [
+        "Elektroprivreda Srbije (EPS)"
+      ],
+      "funding": "EPS's own investment budget; its 2025-2027 business plan adds EUR 100 million for pollution control.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "In 2025 Serbia's NERP coal plants emitted 177,756 tonnes of SO2, 5.1 times the ceiling, and breached all three pollutant ceilings for the first time; Kostolac B, despite its desulphurisation unit, still emitted 3.3 times its ceiling.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "This is Serbia's own compliance record under the Energy Community Treaty, for plants run by state-owned EPS. The Energy Community Secretariat escalated its case in July 2025, and continued breaches weaken Serbia's position now that CBAM charges apply to electricity exports.",
+      "adapt_needed": "Cut operating hours at non-compliant units until pollution controls work, and set closure dates where retrofits are not viable.",
+      "blockers": "Authorities have never fined EPS for these breaches, and a draft IPPC law appears permissive towards plants operating without permits.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2026/06/2025_06_Comply-or-close.pdf",
+      "page": 36,
+      "quote": "In spite of a visible decline in the last three years, SO 2 emissions from the NERP coal power plants in Serbia were still over 5 times above the national ceiling in 2025, up from 4.6 times in 2024, as the ceiling is decreasing annually.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2026-comply-or-close-02",
+      "doc_id": "bankwatch-2026-comply-or-close",
+      "title": "Nikola Tesla A desulphurisation cuts SO2 but still misses ceiling",
+      "country": "RS",
+      "programme": "Flue gas desulphurisation at Nikola Tesla A3-A6",
+      "theme": "coal_transition",
+      "maturity": "piloted",
+      "outcome": "mixed",
+      "problem": "Nikola Tesla A, one of EPS's largest lignite plants, emitted far more sulphur dioxide than its NERP ceiling allowed.",
+      "solution": "EPS installed a desulphurisation unit on units A3-A6, which was commissioned in 2024 after a trial run.",
+      "implementer": "Elektroprivreda Srbije (EPS)",
+      "delivery_partners": [
+        "Mitsubishi Power"
+      ],
+      "funding": null,
+      "spend_reported": 215000000,
+      "currency": "EUR",
+      "spend_year": 2024,
+      "spend_scope": "unclear",
+      "spend_eur": 215000000,
+      "results": "SO2 emissions fell from nearly 60,000 tonnes in 2023 to almost 21,000 in 2025 but stayed at twice the plant's individual ceiling; the unit was commissioned 13 years after funding was secured.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "This is EPS's own flagship pollution-control investment, made to meet Serbia's NERP obligations under the Energy Community Treaty. It shows large retrofits can cut emissions but arrive late and still fall short of legal limits.",
+      "adapt_needed": "Future EPS retrofits need performance guarantees tied to legal ceilings and real-time public emissions data.",
+      "blockers": "Retrofits are costly and energy-consuming, making old plants less efficient just as CBAM makes coal power less competitive.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2026/06/2025_06_Comply-or-close.pdf",
+      "page": 40,
+      "quote": "Despite a considerable reduction of SO 2 emissions from nearly 60,000 tonnes in 2023 to almost 21,000 in 2025, this amount is still twice as much sulphur dioxide as the plant's individual ceiling in 2025. This cannot count as good value for money by any stretch of the imagination.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2026-comply-or-close-03",
+      "doc_id": "bankwatch-2026-comply-or-close",
+      "title": "Serbia keeps opt-out Morava and Kolubara A coal plants running illegally",
+      "country": "RS",
+      "programme": "LCPD opt-out (limited lifetime derogation) for Morava and Kolubara A",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "Serbia's oldest EPS lignite units, Morava and Kolubara A, could not meet EU pollution limits without major retrofits.",
+      "solution": "Serbia placed them under the opt-out derogation, allowing up to 20,000 operating hours between 2018 and 2023 before closure; EPS announced closure for end-2024 and tendered conservation and decommissioning studies.",
+      "implementer": "Elektroprivreda Srbije (EPS)",
+      "delivery_partners": [],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Morava ran another 2,875 hours in 2025 although its hours expired at the end of 2022, and Kolubara A5 ran 2,200 hours; the closure date slipped to 'by 2030', and the Energy Community Secretariat issued a reasoned opinion in March 2026.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "This is Serbia's own case, run by state-owned EPS under the Large Combustion Plants Directive of the Energy Community Treaty. Missed closure deadlines have led to dispute settlement and undermine the credibility of Serbia's coal phase-out plans.",
+      "adapt_needed": "Set binding unit-by-unit closure dates linked to replacement capacity, such as the planned solar plants on the Kolubara and Morava ash dumps.",
+      "blockers": "Energy security arguments and the strategy's 'by 2030' wording give EPS room to keep the units running.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2026/06/2025_06_Comply-or-close.pdf",
+      "page": 39,
+      "quote": "Serbia kept its antiquated Morava power plant running for another illegal 2,875 hours in 2025, in breach of the 'opt-out' derogation, as its allotted operating hours had already expired at the end of 2022.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2026-comply-or-close-04",
+      "doc_id": "bankwatch-2026-comply-or-close",
+      "title": "Serbia's low carbon tax is a weak tool for coal phase-out",
+      "country": "RS",
+      "programme": "Carbon tax and domestic CBAM law (2025)",
+      "theme": "market_reform",
+      "maturity": "emerging",
+      "outcome": "mixed",
+      "problem": "Serbia's coal-heavy power sector pays no meaningful carbon price while the EU's CBAM now charges carbon-intensive imports, including electricity.",
+      "solution": "In late 2025 Serbia introduced a carbon tax and its own reverse version of CBAM, taxing carbon-intensive imports.",
+      "implementer": "Government of Serbia",
+      "delivery_partners": [],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "The tax is only four euros per tonne with no sign of increases, the CBAM law does not cover electricity, and the law does not guarantee that revenues go to the energy transition.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "This is Serbia's own first step on carbon pricing, taken in response to EU CBAM exposure. Without a rising price and earmarked revenues it is unlikely to shift EPS away from lignite.",
+      "adapt_needed": "Set a rising price path towards EU ETS levels, cover the power sector and earmark revenues for the energy transition.",
+      "blockers": "Fear of higher electricity prices and EPS's dependence on lignite make a meaningful carbon price politically hard.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2026/06/2025_06_Comply-or-close.pdf",
+      "page": 41,
+      "quote": "However, the CBAM law does not apply to the electricity sector, and the legislation on carbon pricing sets a tax of only four euros per tonne, with no indication that it will increase in the future. The system is so full of loopholes, rebates and subsidies that it can at best be considered a practice run in advance of the introduction of a more effective system.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2026-comply-or-close-05",
+      "doc_id": "bankwatch-2026-comply-or-close",
+      "title": "Ugljevik's EUR 85 million desulphurisation unit sits unused as 'economic burden'",
+      "country": "BA",
+      "programme": "Flue gas desulphurisation at Ugljevik power plant",
+      "theme": "coal_transition",
+      "maturity": "piloted",
+      "outcome": "failure",
+      "problem": "The Ugljevik lignite plant in Republika Srpska is the region's largest single sulphur dioxide emitter.",
+      "solution": "A desulphurisation unit was installed at the plant and received an operating permit in November 2021.",
+      "implementer": "RiTE Ugljevik (Elektroprivreda Republike Srpske)",
+      "delivery_partners": [],
+      "funding": null,
+      "spend_reported": 85000000,
+      "currency": "EUR",
+      "spend_year": 2026,
+      "spend_scope": "unclear",
+      "spend_eur": 85000000,
+      "results": "Ugljevik emitted 115,079 tonnes of SO2 in 2025, 16.3 times its ceiling and its highest level since 2018, with emissions rising each year since 2022.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "EPS has similar desulphurisation units at Kostolac B and Nikola Tesla. Ugljevik shows that without enforcement of Energy Community pollution rules, a state utility may leave costly equipment idle to save operating costs.",
+      "adapt_needed": "Make operating permits conditional on continuous, real-time monitoring that proves pollution controls are running.",
+      "blockers": "No Western Balkan authority has fined a plant operator for these breaches, so utilities pay nothing for idling equipment.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2026/06/2025_06_Comply-or-close.pdf",
+      "page": 6,
+      "quote": "Its operator admits that the de-SO X is not working mainly because it is an 'economic burden', and it looks increasingly doubtful that this EUR 85 million project will ever be properly used.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2026-comply-or-close-06",
+      "doc_id": "bankwatch-2026-comply-or-close",
+      "title": "Kosova B retrofit stalls despite EUR 76.4 million IPA II grant",
+      "country": "XK",
+      "programme": "Kosova B1 and B2 rehabilitation for Industrial Emissions Directive compliance (IPA II)",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "Kosovo's Kosova B lignite units emit dust and nitrogen oxides far above their NERP ceilings.",
+      "solution": "Kosovo planned to retrofit unit B1 by 2021 and B2 by 2022 to meet Industrial Emissions Directive limits, using an EU IPA II grant signed in November 2019 and budget allocations under its Energy Strategy.",
+      "implementer": "Kosovo Ministry of Energy and Kosovo Energy Corporation (KEK)",
+      "delivery_partners": [
+        "European Commission (IPA II)"
+      ],
+      "funding": "EU IPA II grant, plus allocations of EUR 88 million in 2024 and EUR 88 million in 2025 under the Energy Strategy.",
+      "spend_reported": 76400000,
+      "currency": "EUR",
+      "spend_year": 2019,
+      "spend_scope": "public",
+      "spend_eur": 76400000,
+      "results": "The Ministry of Energy reports zero progress despite the 2024 and 2025 allocations; compliance dates slipped to October 2026 (B1) and October 2027 (B2), and Kosova B1 emitted 6.2 times its dust ceiling in 2025.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession",
+        "ifi_funding"
+      ],
+      "serbia_reason": "Serbia also relies on EU pre-accession funds and its state utility to bring lignite units into line with Energy Community emission rules. Kosovo shows that a signed grant alone does not deliver retrofits when works are repeatedly delayed.",
+      "adapt_needed": "Attach milestones and clawback conditions to IPA-funded retrofits and publish progress reports.",
+      "blockers": "WBIF's Reform and Growth Facility does not allow support for fossil fuels, limiting new EU grant funding for coal retrofits.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2026/06/2025_06_Comply-or-close.pdf",
+      "page": 27,
+      "quote": "It envisaged that unit B2 would follow suit and comply by 2022, with the use of a EUR 76.4 million grant under the European Commission's Instrument for Pre-Accession II (IPA II) signed in November 2019. These works have been repeatedly and unjustifiably delayed.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2026-comply-or-close-07",
+      "doc_id": "bankwatch-2026-comply-or-close",
+      "title": "Pljevlja retrofit after illegal opt-out operation leaves compliance uncertain",
+      "country": "ME",
+      "programme": "Pljevlja ecological reconstruction (retrofit) after the LCPD opt-out",
+      "theme": "coal_transition",
+      "maturity": "piloted",
+      "outcome": "mixed",
+      "problem": "Montenegro's only coal plant, Pljevlja, used up its 20,000 opt-out operating hours by late 2020 but kept running.",
+      "solution": "State utility EPCG kept the plant operating and contracted a retrofit in 2020 to meet EU best-available-technique standards, taking the plant offline in 2025 for the main works.",
+      "implementer": "Elektroprivreda Crne Gore (EPCG)",
+      "delivery_partners": [
+        "Dongfang (lead contractor)"
+      ],
+      "funding": null,
+      "spend_reported": 80000000,
+      "currency": "EUR",
+      "spend_year": 2026,
+      "spend_scope": "unclear",
+      "spend_eur": 80000000,
+      "results": "After restarting in November 2025, very high nitrogen oxide and sulphur dioxide levels were measured in Pljevlja and the plant's automatic measuring equipment was not working; denitrification began in January 2026 and desulphurisation entered trial operation in February 2026, with results not yet known.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "Like EPS's Morava and Kolubara A, Pljevlja is a state-utility unit that overran its opt-out hours under the Energy Community Treaty. It shows the legal and cost risks of retrofitting an old unit instead of closing it.",
+      "adapt_needed": "Serbia should weigh any life-extension retrofit against closure, carbon pricing and CBAM costs before signing contracts.",
+      "blockers": "Plants seen as vital for supply security create pressure to extend their life rather than close them.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2026/06/2025_06_Comply-or-close.pdf",
+      "page": 31,
+      "quote": "Overall, the end of the main retrofit works has brought more questions than answers, and it remains to be seen whether Pljevlja will ever be able to meet EU pollution control standards.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bankwatch-2026-comply-or-close-08",
+      "doc_id": "bankwatch-2026-comply-or-close",
+      "title": "North Macedonia's coal phase-out plans undercut by utility's new lignite mine",
+      "country": "MK",
+      "programme": "Just Transition Roadmap and NECP coal phase-out by 2030",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "mixed",
+      "problem": "North Macedonia's old lignite plants breach their NERP ceilings, while planned closure dates keep slipping.",
+      "solution": "The government adopted a Just Transition Roadmap (2023), an Accelerating Coal Transition Investment Plan (2024) and an updated NECP with a 2030 coal phase-out scenario, leaving the unit closure timeline to state utility AD ESM.",
+      "implementer": "Government of North Macedonia",
+      "delivery_partners": [
+        "AD ESM (Elektrani na Severna Makedonija)"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Oslomej's closure has been pushed from 2019 to the end of 2026 and it still operated in 2025, while an EIA for the new Zhivojno lignite mine was approved in September 2025; private investors drive a significant increase in solar and wind generation.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "North Macedonia is the region's most advanced planner for a just transition, with a state utility similar to EPS. It shows that plans made in the Energy Community NECP process fail if the state utility keeps investing in new coal.",
+      "adapt_needed": "Serbia's NECP update would need unit-level closure dates that bind EPS rather than leaving them to the utility.",
+      "blockers": "A state utility's interest in protecting coal assets and jobs can override national transition plans.",
+      "source_url": "https://bankwatch.org/wp-content/uploads/2026/06/2025_06_Comply-or-close.pdf",
+      "page": 36,
+      "quote": "On paper, the country has reaffirmed its commitment to phase out coal power generation in its updated NECP. However, the actions of the government and AD ESM are not aligned with strategic documents.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bruegel-2020-just-transition-fund-04",
+      "doc_id": "bruegel-2020-just-transition-fund",
+      "title": "Romania's state-funded coal mine closures failed to re-employ miners",
+      "country": "RO",
+      "programme": "Romanian coal mine closures (Jiu Valley, Oltenia, Prahova)",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "Uneconomic coal mines run by state-owned companies in the Jiu Valley, Oltenia and Prahova basins had to close, hitting mono-industrial regions.",
+      "solution": "Since 1997 the state budget, through the line ministry, has financed closures of the state-owned mining companies, with redundancy compensation, training programmes and other social protection for laid-off workers.",
+      "implementer": "Romanian government (line ministry)",
+      "delivery_partners": [
+        "State-owned coal mining companies"
+      ],
+      "funding": "Romanian state budget; current closures follow the EU decision on aid for closing uncompetitive hard-coal mines.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Since 1989 Jiu Valley mining jobs fell from 54,000 to 3,000, and reintegration of laid-off workers failed because no new economic activities emerged; 5 mines are still being closed under the EU decision on uncompetitive hard-coal mines.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "Serbia's lignite mines belong to the state-owned utility, so closures would also be state-financed and subject to state aid rules. Romania shows that compensation and training alone do not stop long-term decline without new jobs.",
+      "adapt_needed": "Serbia would need to pair closure compensation with an economic diversification plan for Kolubara and Kostolac before mines close.",
+      "blockers": "Mono-industrial local economies and low capacity to absorb EU funds could repeat Romania's outcome.",
+      "source_url": "https://www.bruegel.org/sites/default/files/wp-content/uploads/2020/05/Bruegel-JTF-report-for-EP-BUDG2.pdf",
+      "page": 95,
+      "quote": "The mine closure measures included the right to compensation for salary following collective redundancy, training programmes and other social protection measures for the former employees. Even so, the reintegration of the laid-off personnel was unsuccessful because of the failure to create new economic activities able to absorb the available work force.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bruegel-2020-just-transition-fund-05",
+      "doc_id": "bruegel-2020-just-transition-fund",
+      "title": "Greece's rapid lignite exit lacks territorial plans and social dialogue",
+      "country": "GR",
+      "programme": "Greek lignite phase-out (existing plants retired by 2023)",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "Western Macedonia and Megalopolis depend heavily on lignite; Western Macedonia had 27% unemployment in 2018.",
+      "solution": "The Greek government decided to retire all existing lignite plants by 2023, leaving one unit under construction to run between 2023 and 2028.",
+      "implementer": "Government of Greece",
+      "delivery_partners": [
+        "PPC (Public Power Corporation)",
+        "Regional and municipal authorities"
+      ],
+      "funding": "No steady public financing was in place, and Greece's share of the proposed Just Transition Mechanism was judged limited.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Months before the first plant, Amyntaio, was due to close there were no coherent territorial plans, no social partner dialogue and no consultation; about 7,175 people still worked in the lignite industry at the end of 2019.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility"
+      ],
+      "serbia_reason": "Like Greece's PPC, Serbia's state-owned utility runs lignite plants that anchor regional economies. Greece shows that a fast top-down exit decision without regional plans leaves communities unprepared.",
+      "adapt_needed": "Serbia would need a just transition committee of ministries, municipalities, unions, NGOs and the utility, with an agreed master plan before closures start.",
+      "blockers": "Plant economics or EU rules could force closures before transition plans and funding are ready.",
+      "source_url": "https://www.bruegel.org/sites/default/files/wp-content/uploads/2020/05/Bruegel-JTF-report-for-EP-BUDG2.pdf",
+      "page": 102,
+      "quote": "This is exacerbated by the lack of coherent territorial plans for the two regions or a robust governance structure, just a few months before the shut-down of the first lignite plant in Amyntaio. To further worsen the situation, there currently exists no dialogue between the social partners influenced by the phase out decision and no consultation process for the development of the territorial transition plans.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bruegel-2025-western-balkans-energy-sector-03",
+      "doc_id": "bruegel-2025-western-balkans-energy-sector",
+      "title": "Western Balkan market coupling by 2027 is unrealistic despite Serbia's lead",
+      "country": "RS",
+      "programme": "EU Growth Plan for the Western Balkans – electricity market coupling",
+      "theme": "market_reform",
+      "maturity": "emerging",
+      "outcome": "mixed",
+      "problem": "Coupling with EU electricity markets requires transposing the Energy Community Electricity Integration Package, adopting an NECP, running a day-ahead market and certifying an independent TSO, a heavy task for small administrations.",
+      "solution": "The 2024–2028 EU Growth Plan for the Western Balkans set 2027 as the goal for coupling, subject to alignment with EU law. Serbia is the frontrunner, having adopted a comprehensive set of primary and secondary acts for full transposition.",
+      "implementer": "Government of Serbia",
+      "delivery_partners": [
+        "European Commission",
+        "Energy Community Secretariat",
+        "Market Coupling Steering Committee"
+      ],
+      "funding": "Coupling is facilitated by the EU Growth Plan for the Western Balkans, whose €6 billion the source calls modest for the region's needs.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Serbia scored 58% on regulatory readiness for coupling, behind North Macedonia at 61%. All Western Balkan countries missed the 31 December 2023 transposition deadline, and an 18-month technical preparation must follow verification.",
+      "serbia_factors": [
+        "eu_accession",
+        "ifi_funding"
+      ],
+      "serbia_reason": "This is Serbia's own accession-linked reform, and coupling plus an equivalent carbon price is the route to avoid CBAM on electricity exports. The source calls for more IPA funding for capacity in ministries and regulators.",
+      "adapt_needed": "Serbia would need more staff and technical capacity in its ministry and regulator to finish verification and the technical preparation for coupling.",
+      "blockers": "Limited administrative capacity, complex regulations and the separate CBAM requirement for a carbon price equivalent to the EU's slow progress.",
+      "source_url": "https://www.bruegel.org/sites/default/files/2026-03/WP%2033%202025.pdf",
+      "page": 20,
+      "quote": "Considering the current state of transposition and the timeline after transposition, it is safe to conclude that electricity coupling between the EU and the Western Balkans by 2027, as foreseen in the countries’ growth plans, is not realistic.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bruegel-2025-western-balkans-energy-sector-05",
+      "doc_id": "bruegel-2025-western-balkans-energy-sector",
+      "title": "Serbia lacks a binding coal phase-out timeline, protecting cheap SOE lignite",
+      "country": "RS",
+      "programme": "Serbia NECP (no coal phase-out date)",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "Serbia depends heavily on lignite, yet the 2020 Sofia Declaration commits the region to climate neutrality by 2050, which cannot be reached without phasing lignite out of power.",
+      "solution": "Serbia's adopted NECP aims to gradually reduce lignite, expand wind and solar and add gas capacity and efficiency measures, but sets no phase-out date.",
+      "implementer": "Government of Serbia",
+      "delivery_partners": [
+        "State-owned electricity producers"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Outside North Macedonia and Montenegro, coal's share of power in the region fell only a few percentage points between 2014 and 2024, and coal-based electricity per capita shows no downward trend. Serbia, like Bosnia and Herzegovina and Kosovo, lacks a binding timeline.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "Cheap, often subsidised lignite power from state-owned enterprises keeps household prices low, which makes a phase-out politically costly. Without a date, Serbia's power exports face high CBAM costs.",
+      "adapt_needed": "Serbia would need to set and commit to a phase-out timeline, using the revised Green Agenda Action Plan 2025–2030 as a toolkit.",
+      "blockers": "Low household electricity prices rest on cheap state-owned lignite generation, so a phase-out carries political costs.",
+      "source_url": "https://www.bruegel.org/sites/default/files/2026-03/WP%2033%202025.pdf",
+      "page": 18,
+      "quote": "The National Energy Climate Plans (NECPs) of Western Balkan countries confirm that the coal phase-out is not planned any time soon. Bosnia and Herzegovina, Serbia and Kosovo continue to depend heavily on coal and lack binding timelines.",
+      "source_quality": "B"
+    },
+    {
+      "id": "bruegel-2025-western-balkans-energy-sector-06",
+      "doc_id": "bruegel-2025-western-balkans-energy-sector",
+      "title": "North Macedonia commits to coal exit, converting Oslomej to solar",
+      "country": "MK",
+      "programme": "North Macedonia NECP coal phase-out (Oslomej solar conversion, Bitola decommissioning)",
+      "theme": "coal_transition",
+      "maturity": "piloted",
+      "outcome": "mixed",
+      "problem": "North Macedonia's power system relied on lignite plants, and most Western Balkan countries had no national coal phase-out date.",
+      "solution": "Its adopted NECP commits to close all coal plants by 2030, converting the Oslomej coal plant into a solar plant and decommissioning Bitola, with solar, wind, hydro and gas backup replacing them.",
+      "implementer": "Government of North Macedonia",
+      "delivery_partners": [],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Coal's share of North Macedonia's electricity mix fell by 26.8 percentage points from 2014 to 2024. This largely meant greater dependence on gas, which now accounts for almost a quarter of the mix.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "This neighbour, with a similar lignite legacy, is the only one with an operational coal exit commitment in its NECP. It also shows the risk of swapping lignite for gas.",
+      "adapt_needed": "Serbia's much larger lignite fleet would need a staged, plant-by-plant version, with site conversion to solar where grid connections already exist.",
+      "blockers": "Serbia's lignite fleet is far larger and underpins low tariffs, so replacement capacity and the political cost are much greater.",
+      "source_url": "https://www.bruegel.org/sites/default/files/2026-03/WP%2033%202025.pdf",
+      "page": 18,
+      "quote": "Only North Macedonia has an operational coal phase-out commitment, aiming to convert one coal-fired plant (TE Plant Oslomej) into a solar plant and to decommission the other (Bitola).",
+      "source_quality": "B"
+    },
+    {
+      "id": "e3g-2021-just-transition-beyond-coal-04",
+      "doc_id": "e3g-2021-just-transition-beyond-coal",
+      "title": "EU Coal Regions in Transition initiative extended to Western Balkans",
+      "country": "EU",
+      "programme": "Coal Regions in Transition Initiative (incl. Initiative for coal regions in transition in the Western Balkans and Ukraine)",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "success",
+      "problem": "Coal regions lacked the know-how and technical capacity to prepare transition strategies and projects before dedicated EU funding existed.",
+      "solution": "From 2017 the Commission ran a knowledge-sharing initiative with pilot regions, a multi-stakeholder platform and an independent secretariat delivering technical assistance. In 2020 it launched a similar initiative for the Western Balkans and Ukraine with six international partners, plus a twinning programme with EU coal regions.",
+      "implementer": "European Commission",
+      "delivery_partners": [
+        "Independent secretariat (START technical assistance)",
+        "Six international partners (Western Balkans and Ukraine initiative)",
+        "Regional and local authorities",
+        "Businesses, trade unions, NGOs and academia"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "The platform showed the need for clear rules of engagement to limit the dominance of incumbents such as the coal industry; the initiative became a workstream of the EU Just Transition Platform and was replicated for the Western Balkans and Ukraine in 2020.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "Serbia is covered by the Western Balkans version of this initiative, so its lignite regions can draw on EU technical support and twinning with EU coal regions. The lesson on curbing incumbent dominance applies to basins dominated by the state utility.",
+      "adapt_needed": "Serbia would need to put forward pilot regions and set clear rules so municipalities and civil society, not only the utility, shape the strategies.",
+      "blockers": "Technical assistance brings no investment money, and without a national coal exit date regional strategies may lack direction.",
+      "source_url": "https://www.e3g.org/wp-content/uploads/E3G-Briefing-Transition-beyond-coal-lessons-from-eu.pdf",
+      "page": 10,
+      "quote": "The platform illustrated the importance of setting clear rules of engagement to manage the dominance of incumbents like the coal industry and clearly linking regional development discourses to climate goals. The independent secretariat of the initiative was helpful in managing this process and delivered the technical support to the regions.",
+      "source_quality": "B"
+    },
+    {
+      "id": "e3g-2021-just-transition-beyond-coal-07",
+      "doc_id": "e3g-2021-just-transition-beyond-coal",
+      "title": "Late coal exit dates in national climate plans destabilise transitions",
+      "country": "EU",
+      "programme": "National Energy and Climate Plans (Poland, Czechia, Bulgaria)",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "Without a clear EU signal that coal must end by 2030, some governments planned coal use well beyond that date.",
+      "solution": "Poland, Czechia and Bulgaria set late coal retirement timelines in their mandatory National Energy and Climate Plans.",
+      "implementer": "Governments of Poland, Czechia and Bulgaria",
+      "delivery_partners": [
+        "European Commission (NECP review)"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Based on their plans, the three countries would produce over 95% of the EU's planned coal electricity in 2030; E3G warns this forces frequent later adjustments and reduces planning security for regions and workers.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "Serbia must also prepare a national energy and climate plan under its Energy Community obligations, and the lignite timeline in it will shape regional planning. An unrealistically late date risks the same disruptive corrections later.",
+      "adapt_needed": "Serbia's plan would need a lignite retirement path consistent with EU 2030 and 2050 targets.",
+      "blockers": "Heavy reliance on state-owned lignite power and security-of-supply concerns push towards late retirement dates.",
+      "source_url": "https://www.e3g.org/wp-content/uploads/E3G-Briefing-Transition-beyond-coal-lessons-from-eu.pdf",
+      "page": 5,
+      "quote": "Settling for a late coal phase out date creates an unstable transition process and will make more frequent adjustments necessary as politics and market conditions in the EU make a 2030 phase out unavoidable. This decreases planning security for affected regions and exposes workers and industry to disruptive changes.",
+      "source_quality": "B"
+    },
+    {
+      "id": "e3g-2024-heating-cooling-cee-02",
+      "doc_id": "e3g-2024-heating-cooling-cee",
+      "title": "Poland modernises district heating but keeps coal in long-term plans",
+      "country": "PL",
+      "programme": "Poland national heating and cooling strategy and NECP",
+      "theme": "district_heating",
+      "maturity": "piloted",
+      "outcome": "mixed",
+      "problem": "Poland runs some of the largest district heating networks in Central and Eastern Europe and must decarbonise them.",
+      "solution": "The national strategy centres on modernising district heating networks and making them more efficient, alongside pilots in low-temperature heating (Szczecin), waste heat recovery (Poznan) and geothermal heat (Poddebice, Stargard).",
+      "implementer": "Government of Poland and city district heating operators",
+      "delivery_partners": [],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "The new NECP raises the renewable heating and cooling target from 21.4% to 32.1%, and pilots prove the business case. But neither the strategy nor the NECP sets specific measures to phase out fossil fuels, and coal stays in long-term district heating plans.",
+      "serbia_factors": [
+        "coal_power",
+        "district_heating"
+      ],
+      "serbia_reason": "Serbia also has large municipal heat networks, some still fed by coal and lignite. Poland shows that network modernisation without a coal exit date leaves heat locked into coal.",
+      "adapt_needed": "Pair network modernisation with a dated coal exit plan for each heat plant and scale up proven pilots.",
+      "blockers": "Cheap domestic lignite and the cost of replacing coal-fired heat capacity.",
+      "source_url": "https://www.e3g.org/wp-content/uploads/E3G-Briefing-Progressing-heating-and-cooling-decarbonisation-in-Central-and-Eastern-Europe.pdf",
+      "page": 4,
+      "quote": "The strategy does not explicitly outline specific measures and targets for decarbonising heating and phasing out fossil fuels, and nor does the NECP. Coal use is still envisaged in long-term plans for district heating plants.",
+      "source_quality": "B"
+    },
+    {
+      "id": "e3g-2024-heating-cooling-cee-05",
+      "doc_id": "e3g-2024-heating-cooling-cee",
+      "title": "EU efficiency directive requires heating plans in cities over 45,000",
+      "country": "EU",
+      "programme": "Energy Efficiency Directive (EED) – municipal heating and cooling plans",
+      "theme": "district_heating",
+      "maturity": "emerging",
+      "outcome": "mixed",
+      "problem": "Many EU member states lack comprehensive heating strategies and local heat planning.",
+      "solution": "The revised EED obliges municipalities above 45,000 people to prepare heating and cooling plans, requires heating and cooling assessments in NECPs and sets targets for renewables and waste heat in district heating by 2050.",
+      "implementer": "European Commission and EU member states",
+      "delivery_partners": [
+        "Municipalities"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Local plans must support the shift to renewable heat and away from fossil fuels, but the directive still allows fossil gas in efficient district heating until 2030, which E3G flags as a concern.",
+      "serbia_factors": [
+        "eu_accession",
+        "district_heating"
+      ],
+      "serbia_reason": "As an EU candidate and Energy Community member, Serbia is expected to align with EU efficiency law, which would bring municipal heat planning to its larger cities. Starting these plans early would help Serbian heat utilities prepare bankable projects.",
+      "adapt_needed": "Set a population threshold and a simple planning template that Serbian municipalities and their heat companies can use.",
+      "blockers": "Limited planning capacity and data in municipalities and heat utilities.",
+      "source_url": "https://www.e3g.org/wp-content/uploads/E3G-Briefing-Progressing-heating-and-cooling-decarbonisation-in-Central-and-Eastern-Europe.pdf",
+      "page": 11,
+      "quote": "Municipalities with populations exceeding 45,000 are mandated to develop municipal heating and cooling plans, while member states are required to include heating and cooling assessments in their National Energy and Climate Plans (NECPs).",
+      "source_quality": "B"
+    },
+    {
+      "id": "ember-2020-coal-imports-western-balkans-01",
+      "doc_id": "ember-2020-coal-imports-western-balkans",
+      "title": "EU carbon price without border adjustment leaked emissions to coal neighbours",
+      "country": "EU",
+      "programme": "EU Emissions Trading System (no border carbon adjustment on electricity imports)",
+      "theme": "market_reform",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "EU generators pay the ETS carbon price, but electricity imported from neighbours with zero or near-zero carbon pricing does not, giving coal plants across the border a cost advantage.",
+      "solution": "The EU ETS priced power-sector emissions only inside the bloc. Sandbag proposes a border carbon adjustment on gross electricity imports until each trading partner adopts an equivalent carbon price.",
+      "implementer": "European Union (EU ETS)",
+      "delivery_partners": [
+        "EU member states"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Net electricity imports into the EU ETS region rose from 3TWh in 2017 to 21TWh in 2019. The imports emitted an estimated 26 million tonnes of CO2 and avoided €630m of carbon costs in 2019.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "Serbian lignite power is the kind of unpriced coal electricity this report found flowing into the EU, and the border adjustment it proposed is what CBAM now does. Serbia's electricity exports are directly exposed.",
+      "adapt_needed": "Serbia would need its own carbon price and verified emissions data so that the EU border charge on its electricity is reduced or waived.",
+      "blockers": "A domestic carbon price raises costs for lignite generation and puts pressure on household tariffs that are politically sensitive.",
+      "source_url": "https://ember-energy.org/app/uploads/2024/11/Ember-Path-of-least-resistance-2020.pdf",
+      "page": 3,
+      "quote": "Coal power plants just outside European borders are supplying electricity to the EU while avoiding the carbon price. We reveal that countries covered by the EU carbon price are increasingly importing electricity, and many new links are planned.",
+      "source_quality": "B"
+    },
+    {
+      "id": "ember-2020-coal-imports-western-balkans-03",
+      "doc_id": "ember-2020-coal-imports-western-balkans",
+      "title": "Serbia's planned new coal units deepen its carbon-leakage exposure",
+      "country": "RS",
+      "programme": "Serbia INDC and planned coal power units",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "Serbia and Bosnia and Herzegovina, among the most carbon-intensive grids connected to the EU, were planning new coal capacity while their EU neighbours decarbonise.",
+      "solution": "Serbia planned about 2GW of new coal capacity and pledged only a 10% GHG emissions cut by 2030 in its INDC.",
+      "implementer": "Government of Serbia",
+      "delivery_partners": [],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Coal projects totalling 6.3GW were at some stage of planning in the Western Balkans, an 86% increase on the 7.3GW operating, with most of the non-Bosnian share in Serbia. Western Balkan power sent to the EU in 2019 emitted an estimated 5.2MtCO2, 20% of the CO2 from all EU electricity imports.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "This is Serbia's own plan to build more lignite capacity for a grid that is strongly connected to the EU. The report argues such imports should face a border carbon price, which is how CBAM now works.",
+      "adapt_needed": "New generation planning in Serbia would need to price in an EU border carbon charge on exports and test low-carbon alternatives before new lignite units.",
+      "blockers": "Lignite is cheap domestic fuel and underpins energy security arguments for new units.",
+      "source_url": "https://ember-energy.org/app/uploads/2024/11/Ember-Path-of-least-resistance-2020.pdf",
+      "page": 28,
+      "quote": "The remaining planned coal capacity is mostly in Serbia, which has a similar share of renewable electricity to Bosnia & Herzegovina, and has pledged to reduce GHG emissions by 10% by 2030.",
+      "source_quality": "B"
+    },
+    {
+      "id": "ember-2022-utilities-coal-gas-exit-01",
+      "doc_id": "ember-2022-utilities-coal-gas-exit",
+      "title": "Poland's proposed NABE coal carve-out retires just 9 GW by 2030",
+      "country": "PL",
+      "programme": "National Energy Security Agency (NABE) and Early Decommissioning Mechanism",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "Poland's coal utilities have no individual total coal phase-out commitments and are expected to run coal until 2049, 19 years beyond the IEA pathway.",
+      "solution": "The government proposed moving the coal plants of Enea, PGE and Tauron into a new state-owned entity, NABE, with an Early Decommissioning Mechanism buying unprofitable units for their last two years and shutting them down.",
+      "implementer": "Polish government",
+      "delivery_partners": [
+        "NABE",
+        "PGE",
+        "Enea",
+        "Tauron"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Of the 23 GW eligible (PGE 13 GW, Enea 5.7 GW, Tauron 4.6 GW), only 9 GW would come offline by 2030, and the plan had not yet been confirmed.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility"
+      ],
+      "serbia_reason": "Moving lignite assets out of a state utility into a public closure vehicle is an option Serbia could weigh for EPS's coal fleet. Poland's case shows a carve-out alone does not bring closure dates forward.",
+      "adapt_needed": "Any carve-out of EPS lignite assets would need to be tied to binding unit closure dates.",
+      "blockers": "Taking on loss-making lignite assets would put a direct burden on the Serbian state budget.",
+      "source_url": "https://ember-energy.org/app/uploads/2024/10/Limited-Utility.pdf",
+      "page": 20,
+      "quote": "An Early Decommissioning Mechanism (EDM) will be tasked with purchasing unprofitable coal assets from NABE for the last two years of their operation and gradually shutting them down. This would still only result in 9 GW of the 23 GW eligible capacity coming offline by 2030.",
+      "source_quality": "B"
+    },
+    {
+      "id": "ember-2022-utilities-coal-gas-exit-02",
+      "doc_id": "ember-2022-utilities-coal-gas-exit",
+      "title": "State utility PGE opens new 460 MW Turow coal unit in 2021",
+      "country": "PL",
+      "programme": "Turow B11 coal unit",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "PGE, which held 13 GW of Polish coal plants, had no coal exit date of its own unless those plants were transferred to NABE.",
+      "solution": "PGE commissioned a new 460 MW coal unit, Turow B11, in 2021, extending coal generation together with the associated mine.",
+      "implementer": "PGE",
+      "delivery_partners": [],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "PGE was the only one of the 21 assessed utilities to add new coal capacity, and the associated mine caused substantial controversy, political tensions and serious social and economic repercussions. Wind and solar made up only 4% of PGE's capacity in 2020.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility"
+      ],
+      "serbia_reason": "Like EPS with Kostolac B3, PGE is a state-controlled utility adding a new coal unit tied to a mine. Its experience shows the controversy and lock-in such a unit creates.",
+      "adapt_needed": "Not a model to copy; Serbia would need to test any new lignite unit against closure timelines and carbon costs first.",
+      "blockers": "Projects that are already contracted or near completion are hard to stop.",
+      "source_url": "https://ember-energy.org/app/uploads/2024/10/Limited-Utility.pdf",
+      "page": 20,
+      "quote": "PGE even opened a new 460 MW hard coal unit, Turow B11, in 2021 and the associated mine is causing substantial controversy and political tensions along with serious social and economic repercussions. No other utility assessed for this report intends to commission new coal plants.",
+      "source_quality": "B"
+    },
+    {
+      "id": "ember-2022-utilities-coal-gas-exit-03",
+      "doc_id": "ember-2022-utilities-coal-gas-exit",
+      "title": "Enea's Kozienice closure schedule cuts only a third of coal by 2030",
+      "country": "PL",
+      "programme": "Kozienice unit closure schedule",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "Polish utility Enea operated 5.7 GW of coal plants with no commitment to a total coal phase-out.",
+      "solution": "In November 2021 Enea announced unit-by-unit closure dates for Kozienice (B1-4 in 2025, B5-8 in 2027, B9-10 in 2041-2, B11 in 2048), planning to replace coal units with fossil gas.",
+      "implementer": "Enea",
+      "delivery_partners": [],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "The schedule removes 1.8 GW (-32%) of coal capacity by 2030 but leaves 3.9 GW running beyond the 2030 benchmark. Enea is among six utilities not compliant even with the 2040 global deadline.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility"
+      ],
+      "serbia_reason": "A unit-by-unit closure calendar is a tool Serbia could use for EPS's ageing lignite units. Enea's case shows that late dates and coal-to-gas switching limit its value.",
+      "adapt_needed": "EPS closure dates would need to match the 2028 Energy Community pollution deadline, with replacement mainly by renewables rather than gas.",
+      "blockers": "Without replacement capacity in place, utilities tend to push closure dates for their largest units far into the future.",
+      "source_url": "https://ember-energy.org/app/uploads/2024/10/Limited-Utility.pdf",
+      "page": 20,
+      "quote": "This equates to 1.8 GW (-32%) of capacity being removed from its coal portfolio by 2030. It will still operate 3.9 GW of coal beyond the EU/OECD benchmark of 2030.",
+      "source_quality": "B"
+    },
+    {
+      "id": "ember-2022-utilities-coal-gas-exit-04",
+      "doc_id": "ember-2022-utilities-coal-gas-exit",
+      "title": "ČEZ's 2038 coal exit lags Czech government's 2033 target",
+      "country": "CZ",
+      "programme": "ČEZ coal phase-out commitment",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "Czechia is an advanced economy, yet coal utility ČEZ planned to burn coal well past the 2030 benchmark for such economies.",
+      "solution": "ČEZ set a 2050 net zero target (excluding scope 3) and a 2038 coal exit, while the Czech government announced on 7 December 2021 a national coal exit by 2033.",
+      "implementer": "ČEZ",
+      "delivery_partners": [
+        "Czech government"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "ČEZ had not yet updated its 2038 commitment to the government's 2033 date and is listed among the significant coal laggards. Wind and solar were only 1% of its capacity in 2020.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility"
+      ],
+      "serbia_reason": "ČEZ is a state-controlled utility, like EPS, whose own coal exit lagged the government's national target. Serbia would need to align EPS's corporate plans with any national phase-out date.",
+      "adapt_needed": "The state as owner would need to write a national coal exit date into EPS's business plan and investment programme.",
+      "blockers": "Serbia has not announced a national coal phase-out date for EPS to align with.",
+      "source_url": "https://ember-energy.org/app/uploads/2024/10/Limited-Utility.pdf",
+      "page": 15,
+      "quote": "Based on the Czech government’s announcement on 7 December 2021 that it will phase-out coal by 2033. ČEZ has not yet updated its commitment from 2038 to 2033.",
+      "source_quality": "B"
+    },
+    {
+      "id": "ember-2022-utilities-coal-gas-exit-05",
+      "doc_id": "ember-2022-utilities-coal-gas-exit",
+      "title": "Bulgaria's BEH has no coal exit date and no renewables growth",
+      "country": "BG",
+      "programme": "Bulgarian National Recovery and Resilience Plan coal phase-out (2038 or 2040)",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "BEH, Bulgaria's state energy holding, burns coal and has neither a net zero target nor its own coal phase-out date.",
+      "solution": "Bulgaria's National Recovery and Resilience Plan indicates a coal phase-out by 2038 or 2040, but BEH has made no commitment and plans no new wind or solar.",
+      "implementer": "Bulgarian Energy Holding (BEH)",
+      "delivery_partners": [
+        "Bulgarian government"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "BEH shows little or no decrease in coal capacity from 2020 to 2030 and had 116 MW of wind and solar in 2020 with no additions planned. It did not respond to the authors' data requests.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility"
+      ],
+      "serbia_reason": "BEH is a state-owned, coal-reliant holding comparable to EPS. It shows that a national phase-out pledge achieves little when the state utility has no matching plan or renewables pipeline.",
+      "adapt_needed": "Serbia would need to set coal closure and renewables targets for EPS through its ownership and business planning.",
+      "blockers": "State utilities can avoid transparency and targets when their government owner does not demand them.",
+      "source_url": "https://ember-energy.org/app/uploads/2024/10/Limited-Utility.pdf",
+      "page": 35,
+      "quote": "Three companies currently demonstrate no willingness to participate in the growth of the wind and solar sector by 2030: Drax, Sev.En and BEH. This is concerning since some of these utilities operate in Eastern European countries where coal phase-outs are coming fast and where leapfrogging an increase in fossil gas generation is of pronounced importance.",
+      "source_quality": "B"
+    },
+    {
+      "id": "ember-2022-utilities-coal-gas-exit-06",
+      "doc_id": "ember-2022-utilities-coal-gas-exit",
+      "title": "CE Oltenia had no wind or solar despite Romania's 2032 coal exit",
+      "country": "RO",
+      "programme": "Romania's 2032 coal phase-out",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "failure",
+      "problem": "CE Oltenia, Romania's state-owned coal utility, had no coal exit date and no wind or solar capacity in 2020.",
+      "solution": "Romania announced a national coal phase-out by 2032; CE Oltenia pledged 725 MW of new wind and solar by 2030 but set no coal exit date of its own.",
+      "implementer": "CE Oltenia",
+      "delivery_partners": [
+        "Romanian government"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "CE Oltenia had not started building any wind or solar in 2020, had no net zero target and did not respond to the authors' data requests.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility"
+      ],
+      "serbia_reason": "CE Oltenia is a state-owned coal utility whose situation is close to EPS's. A national exit date without a utility renewables pipeline leaves the transition stalled.",
+      "adapt_needed": "Serbia would need to require EPS to build renewables, for example on mining and plant sites, alongside any closure schedule.",
+      "blockers": "A coal utility's lack of capital and wind and solar expertise slows its pivot to renewables.",
+      "source_url": "https://ember-energy.org/app/uploads/2024/10/Limited-Utility.pdf",
+      "page": 15,
+      "quote": "Romania has announced that coal will be phased out by 2032. CE Oltenia has not committed to a coal phase-out date.",
+      "source_quality": "B"
+    },
+    {
+      "id": "ember-2022-utilities-coal-gas-exit-07",
+      "doc_id": "ember-2022-utilities-coal-gas-exit",
+      "title": "Ørsted plans ten-fold wind and solar growth and coal exit by 2023",
+      "country": "DK",
+      "programme": "Ørsted wind expansion and asset rotation strategy",
+      "theme": "renewables",
+      "maturity": "scaled",
+      "outcome": "success",
+      "problem": "Utilities must replace coal with wind and solar fast enough to meet the IEA net zero roadmap's six-fold growth by 2030.",
+      "solution": "Ørsted set a 2023 coal phase-out and expands wind through asset rotation, selling newly built assets and reinvesting the profits in further wind development.",
+      "implementer": "Ørsted",
+      "delivery_partners": [],
+      "funding": "Asset rotation: proceeds from selling newly built wind assets are reinvested in new projects.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Ørsted and EDF are the only assessed utilities adding wind and solar at an IEA NZE-compliant scale, with Ørsted growing ten-fold by 2030. Counting assets it has sold, its growth is a little more than five-fold.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility"
+      ],
+      "serbia_reason": "Ørsted is a majority state-owned utility exiting coal while building renewables at net zero pace. Its asset rotation model shows how a state utility can recycle capital into new wind and solar.",
+      "adapt_needed": "EPS would need investors willing to buy stakes in operating renewables and stable rules that make such sales possible.",
+      "blockers": "Serbia's smaller market and higher cost of capital may limit buyers for stakes in EPS projects.",
+      "source_url": "https://ember-energy.org/app/uploads/2024/10/Limited-Utility.pdf",
+      "page": 34,
+      "quote": "Ørsted and EDF emerge as the only utilities bringing wind and solar power to the market at an IEA NZE compliant scale. Ørsted will see a ten-fold increase and EDF almost seven-fold.",
+      "source_quality": "B"
+    },
+    {
+      "id": "enc-2023-coal-subsidies-01",
+      "doc_id": "enc-2023-coal-subsidies",
+      "title": "Serbia's budget bailouts keep Resavica underground coal mines running",
+      "country": "RS",
+      "programme": "State budget support to JP PEU Resavica underground coal mines",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "Serbia's state-owned underground coal mines (JP PEU Resavica), which supply part of EPS's coal, cannot cover their own costs.",
+      "solution": "The government made direct budget transfers, gave an interest-free conditional loan and reprogrammed or tolerated unpaid taxes, while state utility EPS lent to the mines and tolerated their unpaid electricity bills.",
+      "implementer": "Government of Serbia and Tax Administration",
+      "delivery_partners": [
+        "Elektroprivreda Srbije (EPS)",
+        "Development Fund of Serbia"
+      ],
+      "funding": "State budget transfers, foregone tax revenue and loans from the budget, the Development Fund and EPS.",
+      "spend_reported": 36000000,
+      "currency": "EUR",
+      "spend_year": 2021,
+      "spend_scope": "public",
+      "spend_eur": 36000000,
+      "results": "The budget subsidy to Resavica almost doubled in 2021, driving a 42% rise in Serbia's direct coal subsidies; Serbia was the region's largest coal subsidiser, at EUR 98.67 million over 2021-2022.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "This is Serbia's own case: budget money and EPS support prop up loss-making coal mining. The Energy Community Secretariat tracks these subsidies against the Western Balkan commitment to phase out coal subsidies and respect State aid rules.",
+      "adapt_needed": "Replace open-ended bailouts with a time-bound mine closure and worker transition plan, with any remaining aid assessed under State aid rules.",
+      "blockers": "Mining jobs in coal towns and EPS's reliance on domestic coal make cutting support politically difficult.",
+      "source_url": "https://www.energy-community.org/dam/jcr:322a67e2-ac16-427f-ac07-366276b1dae5/Final%20report%20Dijana%20Ristovic-28.09.2023.pdf",
+      "page": 14,
+      "quote": "In Serbia, main driver for increase of 42% is almost doubled subsidy from the state budget to JP PEU Resavica of RSD 8,5 billion (EUR 36 million) in 2021.",
+      "source_quality": "A"
+    },
+    {
+      "id": "enc-2023-coal-subsidies-02",
+      "doc_id": "enc-2023-coal-subsidies",
+      "title": "Serbia's state guarantees on EPS coal loans build growing fiscal exposure",
+      "country": "RS",
+      "programme": "State loan guarantees for EPS coal plant and mine investments",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "EPS needed large loans for desulphurisation, mine equipment, a new 350 MW unit at Kostolac B and refinancing of its debts.",
+      "solution": "The Ministry of Finance guaranteed EPS loans from JICA, China Exim Bank, EBRD, KfW and the World Bank (IBRD), giving the utility cheaper credit than comparable commercial loans.",
+      "implementer": "Ministry of Finance of Serbia",
+      "delivery_partners": [
+        "Elektroprivreda Srbije (EPS)",
+        "EBRD",
+        "KfW",
+        "World Bank (IBRD)",
+        "JICA",
+        "China Exim Bank"
+      ],
+      "funding": "Loans from development banks and export-credit lenders, guaranteed by the state.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "The subsidy value of this public finance support rose from EUR 12.02 million in 2021 to EUR 22.98 million in 2022; Serbia's outstanding state-backed coal support (guarantees, budget loans and arrears) reached EUR 701.9 million, 7.1% of general government expenditure.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession",
+        "ifi_funding"
+      ],
+      "serbia_reason": "This is Serbia's own case: the state backs EPS's lignite investments with guarantees, including on EBRD, KfW and World Bank loans. The Energy Community Secretariat counts these guarantees as coal subsidies that Serbia has committed to phase out.",
+      "adapt_needed": "Redirect state guarantees and development-bank lending from extending coal units towards grids, storage and renewables.",
+      "blockers": "Guarantees already issued run for up to 20 years, so the fiscal exposure cannot be unwound quickly.",
+      "source_url": "https://www.energy-community.org/dam/jcr:322a67e2-ac16-427f-ac07-366276b1dae5/Final%20report%20Dijana%20Ristovic-28.09.2023.pdf",
+      "page": 13,
+      "quote": "Bosnia and Herzegovina and Serbia are the Contracting Parties where the level of direct subsidies increased in 2021 compared to 2020. The increase is primarily the result from issuing additional state guarantees for loans to thermal power plants and continuing the policy of tolerating the non-payment by coal mines as well as support to production of coal.",
+      "source_quality": "A"
+    },
+    {
+      "id": "enc-2023-coal-subsidies-03",
+      "doc_id": "enc-2023-coal-subsidies",
+      "title": "Bosnia's guarantees and tolerated arrears sustain loss-making coal mines and plants",
+      "country": "BA",
+      "programme": "FBiH state guarantee for Tuzla block 7 and tolerated coal-mine arrears",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "failure",
+      "problem": "State-owned coal mines in the Federation of BiH run up large unpaid taxes, contributions and concession fees, and state utility EPBiH sought finance for new coal capacity.",
+      "solution": "Governments tolerated and reprogrammed the mines' arrears, the FBiH Government guaranteed a China Exim Bank loan for the new Tuzla block 7, and EPBiH invested in, lent to and prepaid its supplying mines.",
+      "implementer": "Government of the Federation of Bosnia and Herzegovina",
+      "delivery_partners": [
+        "Elektroprivreda BiH (EPBiH)",
+        "China Exim Bank",
+        "Tuzla Canton Government"
+      ],
+      "funding": "Foregone public revenue, state loan guarantees and loans and capital injections from the state-owned utility.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Direct subsidies were EUR 36.04 million in 2021 and EUR 34.1 million in 2022, the highest per MWh in the region at EUR 3.09/MWh in 2021; outstanding state-backed support reached EUR 1,022.8 million, 23.1% of general government expenditure.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "Like Serbia, BiH supports lignite mines and plants through state-owned utilities, guarantees and tolerated arrears. It shows how these hidden supports pile up contingent liabilities that conflict with the Energy Community commitment to phase out coal subsidies.",
+      "adapt_needed": "Serbia would need to audit EPS advances to mines and tolerated debts and report them transparently as State aid.",
+      "blockers": "The social role of coal mines and close utility-mine ties make arrears politically hard to collect.",
+      "source_url": "https://www.energy-community.org/dam/jcr:322a67e2-ac16-427f-ac07-366276b1dae5/Final%20report%20Dijana%20Ristovic-28.09.2023.pdf",
+      "page": 14,
+      "quote": "Main driver for increased subsidies in Bosnia and Herzegovina is continuing the policy of tolerating the non-payment of due debts and arrears, SOE investments in coal mines as well as changing difference between the underlying interest rates used for valuation of subsidies in the form of State guarantees.",
+      "source_quality": "A"
+    },
+    {
+      "id": "enc-2023-coal-subsidies-04",
+      "doc_id": "enc-2023-coal-subsidies",
+      "title": "Montenegro winds down direct subsidies to Pljevlja coal mine and plant",
+      "country": "ME",
+      "programme": "Repayment of rescheduled Pljevlja coal mine tax debt",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "success",
+      "problem": "The Pljevlja coal mine, owned by majority state-owned utility EPCG, had accumulated tax and contribution arrears.",
+      "solution": "The government rescheduled the arrears over five years, the mine repaid them early in January 2021, and no new fiscal or SOE investment support followed; only a state guarantee on a KfW loan for filter replacement at TPP Pljevlja remained.",
+      "implementer": "Government of Montenegro (Ministry of Finance, Tax Administration)",
+      "delivery_partners": [
+        "Elektroprivreda Crne Gore (EPCG)",
+        "KfW"
+      ],
+      "funding": "The mine repaid its rescheduled debt; filter replacement was financed by a state-guaranteed KfW loan.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Direct coal subsidies fell every year from EUR 0.73 million in 2018 to EUR 0.06 million in 2022, their lowest level in the period.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession",
+        "ifi_funding"
+      ],
+      "serbia_reason": "Montenegro's only lignite plant is run by a majority state-owned utility, as EPS's plants are. Clearing tax arrears and ending new support shows a Contracting Party can meet the Energy Community subsidy phase-out commitment, using a KfW loan only for pollution control.",
+      "adapt_needed": "Serbia's much larger mining sector would need a phased schedule for settling mine arrears rather than a single repayment.",
+      "blockers": "Serbia's loss-making underground mines could not repay their arrears without restructuring or closure.",
+      "source_url": "https://www.energy-community.org/dam/jcr:322a67e2-ac16-427f-ac07-366276b1dae5/Final%20report%20Dijana%20Ristovic-28.09.2023.pdf",
+      "page": 14,
+      "quote": "In Montenegro, tax debt reprogrammed in 2021 was paid out and no new fiscal support occurred in 2022 as well as SOE investments. Still some support was provided in the form of Public finance support as state loan guarantee for filters replacement in the TPP Pljevlja.",
+      "source_quality": "A"
+    },
+    {
+      "id": "enc-2023-coal-subsidies-05",
+      "doc_id": "enc-2023-coal-subsidies",
+      "title": "North Macedonia adds no new coal subsidies, but ageing plants falter",
+      "country": "MK",
+      "programme": "State loan guarantees for TPP Bitola modernisation",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "mixed",
+      "problem": "North Macedonia's state utility ESM relies on ageing lignite plants at Bitola and Oslomej while domestic coal quality and supply decline.",
+      "solution": "The government gave no new direct subsidies in 2021-2022, limiting support to two existing state guarantees on commercial loans for modernising TPP Bitola.",
+      "implementer": "Ministry of Finance of North Macedonia",
+      "delivery_partners": [
+        "Elektrani na Severna Makedonija (ESM)",
+        "Deutsche Bank",
+        "Stopanska banka"
+      ],
+      "funding": "Commercial bank loans of EUR 49 million and EUR 30 million, guaranteed by the state.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Subsidies per MWh of coal power fell from EUR 0.81 in 2018 to EUR 0.06 in 2022 and totalled EUR 0.57 million in 2021-2022, but REK Bitola suffered numerous breakdowns and Oslomej ran on imported coal.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "Like Serbia, North Macedonia's coal power is run by a vertically integrated state utility. It shows that cutting subsidies, as the Energy Community commitment requires, does not by itself fix ageing plants or falling coal supply.",
+      "adapt_needed": "Pair subsidy cuts with a dated plan to replace old lignite units so the utility does not drift into costly coal imports.",
+      "blockers": "Coal still provides most of Serbia's electricity, so ending support quickly would risk supply shortfalls.",
+      "source_url": "https://www.energy-community.org/dam/jcr:322a67e2-ac16-427f-ac07-366276b1dae5/Final%20report%20Dijana%20Ristovic-28.09.2023.pdf",
+      "page": 22,
+      "quote": "There were no new direct subsidies for electricity generation from coal in 2021-2022, except for the existing public finance support in the form of two state loan guarantees for the modernization of TPP Bitola (see Annex 4).",
+      "source_quality": "A"
+    },
+    {
+      "id": "enc-2023-coal-subsidies-06",
+      "doc_id": "enc-2023-coal-subsidies",
+      "title": "Kosovo's budget loans cover KEK operating losses from inefficient lignite plants",
+      "country": "XK",
+      "programme": "Government loans to KEK and guarantee for the World Bank Energy Clean-up and Land Reclamation loan",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "mixed",
+      "problem": "Kosovo's state-owned KEK runs old lignite plants with low efficiency and poor bill collection, so it cannot cover its operating costs.",
+      "solution": "The Ministry of Finance lent KEK budget money at below-market interest to cover regular operations and guaranteed a World Bank (IDA) loan for energy clean-up and land reclamation.",
+      "implementer": "Ministry of Finance of Kosovo",
+      "delivery_partners": [
+        "Kosovo Energy Corporation (KEK)",
+        "World Bank (IDA)"
+      ],
+      "funding": "Government budget loans and a state-guaranteed World Bank IDA loan.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Subsidies were EUR 4.89 million in 2021 and EUR 5.65 million in 2022, below 2016-2017 levels because no new measures were added; the 2022 rise came from an extra loan to meet KEK's public service obligation.",
+      "serbia_factors": [
+        "coal_power",
+        "state_utility",
+        "eu_accession",
+        "ifi_funding"
+      ],
+      "serbia_reason": "KEK, like EPS, is a vertically integrated state utility whose lignite plants and mines need state help. It shows how operating losses turn into recurring state loans that the Energy Community counts as coal subsidies.",
+      "adapt_needed": "Tie any state support to EPS to efficiency and bill-collection targets and a closure timeline for the oldest units.",
+      "blockers": "Keeping end-user prices low is a political priority, so utility losses and state support are likely to persist.",
+      "source_url": "https://www.energy-community.org/dam/jcr:322a67e2-ac16-427f-ac07-366276b1dae5/Final%20report%20Dijana%20Ristovic-28.09.2023.pdf",
+      "page": 17,
+      "quote": "The fiscal support subsidies for electricity generation from coal in Kosovo* were related to the government loan to cover the cost of KEK's regular operating activities caused by the low operational efficiency of the TPP and problems with the collection of electricity bills, in the amount the EUR 4,79 million and EUR 5,53 million in 2021 and 2022 respectively (see Annex 2).",
+      "source_quality": "A"
+    },
+    {
+      "id": "enc-2025-cbam-readiness-tracker-01",
+      "doc_id": "enc-2025-cbam-readiness-tracker",
+      "title": "Serbia leads Electricity Integration Package transposition, but coupling still not reached",
+      "country": "RS",
+      "programme": "Energy Community Electricity Integration Package (market coupling)",
+      "theme": "market_reform",
+      "maturity": "emerging",
+      "outcome": "mixed",
+      "problem": "Until its market is coupled with the EU day-ahead and intraday markets, Serbia cannot qualify for the CBAM exemption for electricity.",
+      "solution": "Serbia adopted a comprehensive set of primary and secondary acts to fully transpose the Electricity Integration Package, the legal basis for joining EU market coupling. The Secretariat and the European Commission must then verify compliance.",
+      "implementer": "Government of Serbia",
+      "delivery_partners": [
+        "SEEPEX (designated NEMO)",
+        "Energy Community Secretariat",
+        "European Commission"
+      ],
+      "funding": "The EU Reform and Growth Facility for the Western Balkans ties its support to binding deadlines for adopting this legislation.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "As of 9 September 2025 Serbia had day-ahead and intraday markets running and its transposition framework adopted, but compliance was not yet verified. No Contracting Party met the 31 December 2023 deadline and none is expected to join EU market coupling before 2027, so CBAM applies from 1 January 2026.",
+      "serbia_factors": [
+        "eu_accession",
+        "ifi_funding"
+      ],
+      "serbia_reason": "This is Serbia's own path to the CBAM exemption: it is closest to the 'point of no return', but after that the pace depends on EU bodies. Growth Facility deadlines add EU funding conditionality to the legal obligation.",
+      "adapt_needed": "Serbia needs to submit complete laws with good-quality English concordance tables quickly, so that the Secretariat and Commission verification and the 18-month technical preparation can start.",
+      "blockers": "Verification of the transposition, approval of the market coupling integration plan by ACER and the stalled Shadow SEE capacity calculation region, held up by the Serbia–Kosovo dispute, are outside Serbia's control or politically hard.",
+      "source_url": "https://www.energy-community.org/dam/jcr:78740bd6-dba0-4e8b-855c-69f00c84bc73/25343_EC_CBAM_v09_AU_pages_LQ.pdf",
+      "page": 19,
+      "quote": "Considering the current status of fulfilment of the market coupling preconditions, it is highly unlikely that any Contracting Party will be able to join SDAC and SIDC before 2027. Consequently, CBAM payments are expected to apply from 1 January 2026 to electricity imports from Contracting Parties into the EU.",
+      "source_quality": "A"
+    },
+    {
+      "id": "enc-2025-cbam-readiness-tracker-02",
+      "doc_id": "enc-2025-cbam-readiness-tracker",
+      "title": "Serbia cut SO2 sharply yet still breaches Large Combustion Plant ceilings",
+      "country": "RS",
+      "programme": "Energy Community Large Combustion Plants Directive – National Emission Reduction Plan (NERP)",
+      "theme": "coal_transition",
+      "maturity": "scaled",
+      "outcome": "mixed",
+      "problem": "Serbia's lignite power plants emit SO2 and NOx above the ceilings that have applied under Energy Community law since 1 January 2018.",
+      "solution": "Serbia applies the Large Combustion Plants Directive through a National Emission Reduction Plan with falling emission ceilings, while some units ran under an opt-out regime that expired at the end of 2023.",
+      "implementer": "Government of Serbia and thermal power plant operators",
+      "delivery_partners": [
+        "Energy Community Secretariat (monitoring and dispute settlement)"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "In 2024 Serbia significantly reduced SO2 and kept within its dust ceiling, but SO2 compliance remains out of reach. The opted-out Morava plant and the three Kolubara A3 units were still operating after the opt-out expired.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "Serbia's own lignite fleet is failing a binding Energy Community obligation. The Secretariat adds that CBAM will further erode generators' revenues, raising doubts about keeping such plants open.",
+      "adapt_needed": "Serbia needs a plant-by-plant decision to retrofit or close, taking account of the rising fuel use from pollution controls and of CBAM costs.",
+      "blockers": "Retrofits need substantial capital and raise fuel use and CO2 emissions, while coal plants are seen as critical for system adequacy.",
+      "source_url": "https://www.energy-community.org/dam/jcr:78740bd6-dba0-4e8b-855c-69f00c84bc73/25343_EC_CBAM_v09_AU_pages_LQ.pdf",
+      "page": 30,
+      "quote": "North Macedonia and Serbia reduced their SO 2 emissions—Serbia significantly—yet compliance with the ceilings remains out of reach. Combined with the gradual lowering of the ceilings, this suggests that breaches are likely to become more severe in the coming years.",
+      "source_quality": "A"
+    },
+    {
+      "id": "enc-2025-cbam-readiness-tracker-03",
+      "doc_id": "enc-2025-cbam-readiness-tracker",
+      "title": "Serbia's NECP sets 2050 coal exit while adding new lignite unit",
+      "country": "RS",
+      "programme": "Serbia NECP and Just Transition Plan",
+      "theme": "coal_transition",
+      "maturity": "emerging",
+      "outcome": "mixed",
+      "problem": "Serbia's power system relies on lignite, and no Contracting Party has written a coal phase-out into domestic law.",
+      "solution": "Serbia's adopted NECP plans to cut lignite use by up to 25% by 2030 compared with 2019 and indicates a 2050 coal phase-out. A Just Transition Plan is under consultation.",
+      "implementer": "Government of Serbia",
+      "delivery_partners": [
+        "Energy Community Secretariat (Policy Guidelines on Just Transition)"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "The 350 MW Kostolac B3 lignite unit was commissioned at the end of 2024, taking Serbia's lignite capacity to over 4.3 GW. Serbia is not a Powering Past Coal Alliance member, while North Macedonia plans to convert its coal plants by 2027.",
+      "serbia_factors": [
+        "coal_power",
+        "eu_accession"
+      ],
+      "serbia_reason": "Serbia's coal exit plan sits inside its Energy Community NECP and just-transition obligations, and the Secretariat cites 2050 as an example of a far-off date. Adding lignite capacity works against the plan's direction.",
+      "adapt_needed": "Serbia would need a plant-by-plant closure timetable and a finalised Just Transition Plan instead of a single distant end date.",
+      "blockers": "Coal still supplies a large share of electricity and new lignite capacity has just been commissioned, so there is pressure to keep using it.",
+      "source_url": "https://www.energy-community.org/dam/jcr:78740bd6-dba0-4e8b-855c-69f00c84bc73/25343_EC_CBAM_v09_AU_pages_LQ.pdf",
+      "page": 32,
+      "quote": "However, North Macedonia and Ukraine have included fixed coal phase-out dates in their adopted national planning documents. The Serbian NECP indicates a coal phase-out date of 2050 in the energy mix and the Serbian Just Transition Plan is currently under consultation.",
+      "source_quality": "A"
+    },
+    {
+      "id": "enc-2025-cbam-readiness-tracker-05",
+      "doc_id": "enc-2025-cbam-readiness-tracker",
+      "title": "Serbia completes MRVA transposition and issues about 100 GHG permits",
+      "country": "RS",
+      "programme": "Monitoring, reporting, verification and accreditation (MRVA) of GHG emissions",
+      "theme": "market_reform",
+      "maturity": "piloted",
+      "outcome": "success",
+      "problem": "Without verified installation-level emissions data, Serbia can neither run a credible carbon price nor show compatibility with the EU framework.",
+      "solution": "Serbia transposed the core EU ETS Directive provisions and the EU monitoring, reporting, accreditation and verification rules, and began issuing GHG permits and approving monitoring plans. This obligation is also written into the Western Balkan Reform Agendas.",
+      "implementer": "Government of Serbia (GHG permitting authority)",
+      "delivery_partners": [
+        "National Accreditation Body",
+        "Installation operators",
+        "GHG verifiers"
+      ],
+      "funding": "Progress on MRVA is a condition for EU support under the Reform and Growth Facility of the Growth Plan for the Western Balkans.",
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Serbia has completed transposition and approximately 100 GHG permits have been issued. The National Accreditation Body is preparing to review the first applications from verifiers.",
+      "serbia_factors": [
+        "eu_accession",
+        "ifi_funding"
+      ],
+      "serbia_reason": "This is Serbia's own groundwork for a domestic carbon price; the Secretariat calls MRVA the backbone of any emissions trading scheme. EU Growth Plan funding conditions helped drive it.",
+      "adapt_needed": "Serbia now needs working accreditation and verified annual emission reports before a carbon tax or ETS can rely on the data.",
+      "blockers": "Building the procedural and institutional framework is described as a major challenge for public authorities and operators.",
+      "source_url": "https://www.energy-community.org/dam/jcr:78740bd6-dba0-4e8b-855c-69f00c84bc73/25343_EC_CBAM_v09_AU_pages_LQ.pdf",
+      "page": 42,
+      "quote": "In Serbia, the transposition process has been completed; entities subject to the new obligations are preparing applications for the approval of GHG permits and monitoring plans and approximately 100 GHG permits have already been issued. The National Accreditation Body is preparing to review the first applications for accreditation submitted by verifiers.",
+      "source_quality": "A"
+    },
+    {
+      "id": "enc-2025-cbam-readiness-tracker-07",
+      "doc_id": "enc-2025-cbam-readiness-tracker",
+      "title": "Regulated household tariffs shield consumers but strain public utilities",
+      "country": "RS",
+      "programme": "Regulated retail electricity prices",
+      "theme": "market_reform",
+      "maturity": "scaled",
+      "outcome": "mixed",
+      "problem": "State intervention keeps household electricity prices far below EU levels, so consumers do not see wholesale or CBAM-driven cost changes.",
+      "solution": "Serbia and several neighbours have been gradually raising regulated household prices towards market-based supply costs.",
+      "implementer": "Government of Serbia",
+      "delivery_partners": [
+        "Public utilities"
+      ],
+      "funding": null,
+      "spend_reported": null,
+      "currency": null,
+      "spend_year": null,
+      "spend_scope": null,
+      "spend_eur": null,
+      "results": "Household prices excluding taxes rose 9.29% in Serbia in 2024, yet household prices across the Contracting Parties stayed at about one-third of the EU-27 average. Serbia's industrial prices stayed stable and closer to EU levels.",
+      "serbia_factors": [
+        "state_utility",
+        "eu_accession"
+      ],
+      "serbia_reason": "Serbia's retail price shield is paid for mainly by public utilities or the state budget. The Secretariat warns that it delays adaptation to CBAM and to market integration.",
+      "adapt_needed": "Serbia would need to keep moving tariffs towards cost, with targeted protection for vulnerable households instead of a general price shield.",
+      "blockers": "Raising household electricity prices is politically sensitive.",
+      "source_url": "https://www.energy-community.org/dam/jcr:78740bd6-dba0-4e8b-855c-69f00c84bc73/25343_EC_CBAM_v09_AU_pages_LQ.pdf",
+      "page": 14,
+      "quote": "As a result, the financial impacts of CBAM-driven changes in cross-border trade are unlikely to be felt directly by these groups. However, this insulation delays or prevents corrective and adaptation measures, increasing vulnerability and placing additional financial strain on the entities providing the price shield—primarily public utilities or state budgets.",
+      "source_quality": "A"
+    }
+  ],
+  "dropped": [
+    {
+      "id": "agora-2019-german-coal-commission-01",
+      "doc_id": "agora-2019-german-coal-commission",
+      "title": "Germany's Coal Commission reaches near-unanimous coal exit compromise",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "agora-2019-german-coal-commission-02",
+      "doc_id": "agora-2019-german-coal-commission",
+      "title": "Coal exit timetable with capacity caps and periodic reviews",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "agora-2019-german-coal-commission-04",
+      "doc_id": "agora-2019-german-coal-commission",
+      "title": "EUR 40 billion structural aid and federal jobs for coal regions",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "agora-2019-german-coal-commission-05",
+      "doc_id": "agora-2019-german-coal-commission",
+      "title": "Early retirement and retraining guarantee for coal workers",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "agora-2019-german-coal-commission-08",
+      "doc_id": "agora-2019-german-coal-commission",
+      "title": "Paid lignite reserve fell far short of climate targets",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "bankwatch-2023-district-heating-investment-05",
+      "doc_id": "bankwatch-2023-district-heating-investment",
+      "title": "Vienna bans fossil heating in new buildings through heat zoning",
+      "serbia_factors": [
+        "district_heating"
+      ]
+    },
+    {
+      "id": "bankwatch-2023-district-heating-investment-06",
+      "doc_id": "bankwatch-2023-district-heating-investment",
+      "title": "Danish EnergyLab Nordhavn pilot uses district heat pumps to balance grid",
+      "serbia_factors": [
+        "district_heating"
+      ]
+    },
+    {
+      "id": "bankwatch-2025-biomass-district-heating-04",
+      "doc_id": "bankwatch-2025-biomass-district-heating",
+      "title": "Serbia alone in Western Balkans to transpose RED II biomass criteria",
+      "serbia_factors": [
+        "eu_accession"
+      ]
+    },
+    {
+      "id": "bankwatch-2025-biomass-district-heating-05",
+      "doc_id": "bankwatch-2025-biomass-district-heating",
+      "title": "Serbia's wood export curbs and price caps only partly protected consumers",
+      "serbia_factors": []
+    },
+    {
+      "id": "bruegel-2020-just-transition-fund-01",
+      "doc_id": "bruegel-2020-just-transition-fund",
+      "title": "EUR 7.5 billion Just Transition Fund too small for its scope",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "bruegel-2020-just-transition-fund-02",
+      "doc_id": "bruegel-2020-just-transition-fund",
+      "title": "Territorial transition plans lack binding fossil fuel phase-out dates",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "bruegel-2020-just-transition-fund-03",
+      "doc_id": "bruegel-2020-just-transition-fund",
+      "title": "EU coal regions platform valued but weak on inclusion and transparency",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "bruegel-2020-just-transition-fund-06",
+      "doc_id": "bruegel-2020-just-transition-fund",
+      "title": "Silesia redirects EU regional funds to coal-region transformation projects",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "bruegel-2020-just-transition-fund-07",
+      "doc_id": "bruegel-2020-just-transition-fund",
+      "title": "Enel's Futur-e redeploys all workers from closed power plants",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "bruegel-2020-just-transition-fund-08",
+      "doc_id": "bruegel-2020-just-transition-fund",
+      "title": "Ruhr's early support for incumbent coal firms delayed transition",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "bruegel-2025-western-balkans-energy-sector-01",
+      "doc_id": "bruegel-2025-western-balkans-energy-sector",
+      "title": "Russian-owned NIS refinery halted by US sanctions, exposing Serbia's fuel supply",
+      "serbia_factors": []
+    },
+    {
+      "id": "bruegel-2025-western-balkans-energy-sector-02",
+      "doc_id": "bruegel-2025-western-balkans-energy-sector",
+      "title": "Serbia cut Russian gas share to 82% but progress stalled",
+      "serbia_factors": []
+    },
+    {
+      "id": "bruegel-2025-western-balkans-energy-sector-04",
+      "doc_id": "bruegel-2025-western-balkans-energy-sector",
+      "title": "Montenegro's €24/tCO2 ETS price falls far short of CBAM equivalence",
+      "serbia_factors": [
+        "eu_accession"
+      ]
+    },
+    {
+      "id": "bruegel-2025-western-balkans-energy-sector-07",
+      "doc_id": "bruegel-2025-western-balkans-energy-sector",
+      "title": "Montenegro's €87.5m Pljevlja upgrade pushes coal exit from 2035 to 2040–2041",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "e3g-2021-just-transition-beyond-coal-01",
+      "doc_id": "e3g-2021-just-transition-beyond-coal",
+      "title": "Romania commits to 2032 coal exit to access EU recovery funds",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "e3g-2021-just-transition-beyond-coal-02",
+      "doc_id": "e3g-2021-just-transition-beyond-coal",
+      "title": "Just Transition Fund ties coal-region grants to climate conditions",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "e3g-2021-just-transition-beyond-coal-03",
+      "doc_id": "e3g-2021-just-transition-beyond-coal",
+      "title": "Transition plans in Central and Eastern Europe lack local engagement",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "e3g-2021-just-transition-beyond-coal-05",
+      "doc_id": "e3g-2021-just-transition-beyond-coal",
+      "title": "Lusatia's generous structural aid undermined by weak regional ownership",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "e3g-2021-just-transition-beyond-coal-06",
+      "doc_id": "e3g-2021-just-transition-beyond-coal",
+      "title": "Portugal closes last coal plant three years ahead of schedule",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "e3g-2021-just-transition-beyond-coal-08",
+      "doc_id": "e3g-2021-just-transition-beyond-coal",
+      "title": "Horná Nitra's locally led transition plan wins national approval",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "e3g-2024-heating-cooling-cee-01",
+      "doc_id": "e3g-2024-heating-cooling-cee",
+      "title": "Poland's Clean Air programme speeds phase-out of coal home heating",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "e3g-2024-heating-cooling-cee-03",
+      "doc_id": "e3g-2024-heating-cooling-cee",
+      "title": "Slovakia lifts renewable heating target to offset nuclear-heavy power mix",
+      "serbia_factors": [
+        "district_heating"
+      ]
+    },
+    {
+      "id": "e3g-2024-heating-cooling-cee-04",
+      "doc_id": "e3g-2024-heating-cooling-cee",
+      "title": "Bulgaria's high renewable heating target relies heavily on household firewood",
+      "serbia_factors": []
+    },
+    {
+      "id": "e3g-2024-heating-cooling-cee-06",
+      "doc_id": "e3g-2024-heating-cooling-cee",
+      "title": "EU buildings directive ends fossil boiler subsidies, targets 2040 phase-out",
+      "serbia_factors": [
+        "eu_accession"
+      ]
+    },
+    {
+      "id": "ember-2020-coal-imports-western-balkans-02",
+      "doc_id": "ember-2020-coal-imports-western-balkans",
+      "title": "Spain's coal decline partly offset by rising Moroccan coal power imports",
+      "serbia_factors": [
+        "coal_power"
+      ]
+    },
+    {
+      "id": "ember-2020-coal-imports-western-balkans-04",
+      "doc_id": "ember-2020-coal-imports-western-balkans",
+      "title": "Ukraine's very low carbon tax and stalled ETS barely priced coal exports",
+      "serbia_factors": [
+        "eu_accession"
+      ]
+    },
+    {
+      "id": "enc-2021-district-heating-tariffs-01",
+      "doc_id": "enc-2021-district-heating-tariffs",
+      "title": "Serbia's national heat-price methodology undermined by flat-rate billing and local approval",
+      "serbia_factors": [
+        "district_heating"
+      ]
+    },
+    {
+      "id": "enc-2021-district-heating-tariffs-02",
+      "doc_id": "enc-2021-district-heating-tariffs",
+      "title": "Kosovo's energy regulator sets heat tariffs but fuel spikes still need bailouts",
+      "serbia_factors": [
+        "district_heating"
+      ]
+    },
+    {
+      "id": "enc-2021-district-heating-tariffs-03",
+      "doc_id": "enc-2021-district-heating-tariffs",
+      "title": "Lithuania's competitive heat wholesale market cut average heat prices 35%",
+      "serbia_factors": [
+        "district_heating"
+      ]
+    },
+    {
+      "id": "enc-2021-district-heating-tariffs-04",
+      "doc_id": "enc-2021-district-heating-tariffs",
+      "title": "Denmark's municipal heat planning and non-profit tariffs drive renewable district heating",
+      "serbia_factors": [
+        "district_heating"
+      ]
+    },
+    {
+      "id": "enc-2021-district-heating-tariffs-05",
+      "doc_id": "enc-2021-district-heating-tariffs",
+      "title": "Bosnia's locally set heat tariffs lack clear cost rules and oversight",
+      "serbia_factors": [
+        "district_heating"
+      ]
+    },
+    {
+      "id": "enc-2025-cbam-readiness-tracker-04",
+      "doc_id": "enc-2025-cbam-readiness-tracker",
+      "title": "Serbia's second renewables auction awarded 424.8 MW of solar and wind",
+      "serbia_factors": [
+        "eu_accession"
+      ]
+    },
+    {
+      "id": "enc-2025-cbam-readiness-tracker-06",
+      "doc_id": "enc-2025-cbam-readiness-tracker",
+      "title": "Serbia plans low carbon tax from 2027, later a fixed-price ETS",
+      "serbia_factors": [
+        "eu_accession"
+      ]
+    },
+    {
+      "id": "enc-2025-cbam-readiness-tracker-08",
+      "doc_id": "enc-2025-cbam-readiness-tracker",
+      "title": "CBAM default rules risk charging EU power that only transits Serbia",
+      "serbia_factors": [
+        "eu_accession"
+      ]
+    }
+  ]
+}

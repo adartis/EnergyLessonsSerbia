@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+screenshots/
+.DS_Store
+# Full report PDFs and their extracted text are not ours to redistribute (copyright).
+# Rebuild them from data/sources.csv with: python scripts/download.py && python scripts/extract.py
+data/raw/
+data/extracted/

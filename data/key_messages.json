@@ -1,0 +1,77 @@
+[
+  {
+    "id": "km-1",
+    "message": "Retrofits on their own have not brought Western Balkan coal plants into line with Energy Community pollution rules: Serbia's plants under its emission reduction plan emitted 5.1 times the SO2 ceiling in 2025, and opted-out units kept running after their hours expired. Where desulphurisation was built it cut emissions sharply, but at Nikola Tesla A only 13 years after funding was secured, and in Bosnia and Kosovo units sat unused or stalled.",
+    "learning_ids": [
+      "bankwatch-2026-comply-or-close-01",
+      "bankwatch-2026-comply-or-close-02",
+      "bankwatch-2026-comply-or-close-03",
+      "bankwatch-2026-comply-or-close-05",
+      "bankwatch-2026-comply-or-close-06",
+      "enc-2025-cbam-readiness-tracker-02",
+      "agora-2021-western-balkans-lignite-exit-04"
+    ]
+  },
+  {
+    "id": "km-2",
+    "message": "Serbia was the region's largest coal subsidiser, at EUR 98.67 million over 2021-2022, and its state guarantees on EPS coal loans keep growing, while new lignite units such as Kostolac B3 only pay off if carbon goes unpriced. Montenegro and North Macedonia show that direct coal subsidies can be wound down.",
+    "learning_ids": [
+      "enc-2023-coal-subsidies-01",
+      "enc-2023-coal-subsidies-02",
+      "enc-2023-coal-subsidies-04",
+      "enc-2023-coal-subsidies-05",
+      "agora-2021-western-balkans-lignite-exit-01",
+      "agora-2021-western-balkans-lignite-exit-02",
+      "enc-2025-cbam-readiness-tracker-03"
+    ]
+  },
+  {
+    "id": "km-3",
+    "message": "CBAM turns carbon pricing and market coupling into the price of access to EU power markets. Serbia leads the region on transposition and emissions monitoring permits, but no Contracting Party is expected to couple before 2027, and Serbia's carbon tax of four euros per tonne is a weak lever on coal.",
+    "learning_ids": [
+      "enc-2025-cbam-readiness-tracker-01",
+      "enc-2025-cbam-readiness-tracker-05",
+      "bankwatch-2026-comply-or-close-04",
+      "bruegel-2025-western-balkans-energy-sector-03",
+      "ember-2020-coal-imports-western-balkans-01",
+      "ember-2020-coal-imports-western-balkans-03",
+      "agora-2021-western-balkans-lignite-exit-05"
+    ]
+  },
+  {
+    "id": "km-4",
+    "message": "State-controlled utilities often set the real pace of coal exit: PGE opened a new coal unit, ČEZ kept a 2038 exit after its government chose 2033, and BEH and CE Oltenia added almost no wind or solar. Ørsted shows the opposite path, planning ten-fold wind and solar growth and a coal exit by 2023, financed by selling built projects.",
+    "learning_ids": [
+      "ember-2022-utilities-coal-gas-exit-02",
+      "ember-2022-utilities-coal-gas-exit-04",
+      "ember-2022-utilities-coal-gas-exit-05",
+      "ember-2022-utilities-coal-gas-exit-06",
+      "ember-2022-utilities-coal-gas-exit-07",
+      "bruegel-2025-western-balkans-energy-sector-05",
+      "bankwatch-2026-comply-or-close-08"
+    ]
+  },
+  {
+    "id": "km-5",
+    "message": "Coal exits decided without regional plans and social dialogue have failed communities: Jiu Valley mining jobs fell from 54,000 to 3,000 without new employers arriving, and Greece announced a rapid lignite exit with no territorial plans in place. Negotiated closure deals within state aid rules and open regional platforms, which the EU has extended to the Western Balkans, give regions a say before plants close.",
+    "learning_ids": [
+      "bruegel-2020-just-transition-fund-04",
+      "bruegel-2020-just-transition-fund-05",
+      "agora-2019-german-coal-commission-03",
+      "e3g-2021-just-transition-beyond-coal-04"
+    ]
+  },
+  {
+    "id": "km-6",
+    "message": "Development-bank money for district heating is available, but delivery has been slow and biomass is a risky default: KfW's first phase in Serbia built four of ten planned plants, and planned projects would use almost all of Serbia's spare wood. Solar heat in Pristina and wastewater heat pumps in Sarajevo show bankable alternatives that burn no fuel.",
+    "learning_ids": [
+      "bankwatch-2025-biomass-district-heating-01",
+      "bankwatch-2025-biomass-district-heating-02",
+      "bankwatch-2025-biomass-district-heating-06",
+      "bankwatch-2023-district-heating-investment-01",
+      "bankwatch-2023-district-heating-investment-02",
+      "bankwatch-2023-district-heating-investment-03",
+      "bankwatch-2023-district-heating-investment-04"
+    ]
+  }
+]

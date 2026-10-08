@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Serbia Energy Learnings</title>
+  <meta name="description" content="What European think tanks report about government successes and failures in energy, filtered to learnings Serbia could apply.">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    // Apply a saved theme before first paint.
+    try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#cards">Skip to case cards</a>
+  <main id="main">
+    <header class="site-header">
+      <div class="header-top">
+        <div>
+          <p class="eyebrow">Alpha · EU Government Innovation &amp; Replicability Platform</p>
+          <h1>Learnings for Serbia's energy sector</h1>
+          <p class="lede">What European think tanks and the Energy Community report about government successes and failures in energy, kept only where at least two Serbia factors apply.</p>
+        </div>
+        <div class="header-actions">
+          <button type="button" id="theme-toggle" class="btn ghost" aria-label="Toggle light or dark mode">Theme</button>
+          <button type="button" id="export-page" class="btn">Export page as PNG</button>
+        </div>
+      </div>
+      <dl class="stats" id="stats"></dl>
+      <p class="as-of" id="as-of"></p>
+    </header>
+
+    <section aria-labelledby="km-title">
+      <h2 id="km-title">Key messages</h2>
+      <p class="hint">Select a message to show only the learnings behind it.</p>
+      <div class="km-grid" id="key-messages"></div>
+    </section>
+
+    <section aria-labelledby="filters-title" class="filters-section">
+      <h2 id="filters-title" class="visually-hidden">Filters</h2>
+      <form class="filters" id="filters" role="search" onsubmit="return false">
+        <label class="search">
+          <span>Search</span>
+          <input type="search" id="f-search" placeholder="Programme, country, keyword…" autocomplete="off">
+        </label>
+        <label><span>Theme</span><select id="f-theme"></select></label>
+        <label><span>Maturity</span><select id="f-maturity"></select></label>
+        <label><span>Outcome</span><select id="f-outcome"></select></label>
+        <label><span>Country</span><select id="f-country"></select></label>
+        <label><span>Source</span><select id="f-source"></select></label>
+        <label><span>Serbia factor</span><select id="f-factor"></select></label>
+        <button type="button" class="btn ghost" id="f-reset">Reset</button>
+      </form>
+      <div class="filter-status">
+        <p id="result-count" aria-live="polite"></p>
+        <div id="km-active"></div>
+        <button type="button" class="btn" id="download-csv">Download CSV</button>
+      </div>
+    </section>
+
+    <section aria-labelledby="charts-title">
+      <h2 id="charts-title">Charts</h2>
+      <div class="chart-grid">
+        <figure class="panel chart-panel" id="panel-spend">
+          <div class="panel-head">
+            <figcaption><h3>Reported spend by country</h3><p class="sub">EUR, summed per country, high to low</p></figcaption>
+            <button type="button" class="btn small" data-chart-png="spend">PNG</button>
+          </div>
+          <div class="chart-box" id="box-spend"><canvas id="chart-spend" role="img" aria-label="Reported spend by country"></canvas></div>
+          <p class="footnote" id="spend-footnote"></p>
+          <details class="data-table"><summary>Data table</summary><div id="table-spend"></div></details>
+        </figure>
+        <figure class="panel chart-panel">
+          <div class="panel-head">
+            <figcaption><h3>Learnings by theme and outcome</h3><p class="sub">Number of learnings</p></figcaption>
+            <button type="button" class="btn small" data-chart-png="theme">PNG</button>
+          </div>
+          <div class="chart-box tall"><canvas id="chart-theme" role="img" aria-label="Learnings by theme, split by outcome"></canvas></div>
+          <details class="data-table"><summary>Data table</summary><div id="table-theme"></div></details>
+        </figure>
+        <figure class="panel chart-panel">
+          <div class="panel-head">
+            <figcaption><h3>Maturity mix</h3><p class="sub">Number of learnings</p></figcaption>
+            <button type="button" class="btn small" data-chart-png="maturity">PNG</button>
+          </div>
+          <div class="chart-box"><canvas id="chart-maturity" role="img" aria-label="Learnings by maturity"></canvas></div>
+          <p class="footnote">Emerging = idea or early design · Piloted = tested at limited scale · Scaled = rolled out nationally or across regions.</p>
+          <details class="data-table"><summary>Data table</summary><div id="table-maturity"></div></details>
+        </figure>
+      </div>
+    </section>
+
+    <section aria-labelledby="cards-title">
+      <h2 id="cards-title">Case cards</h2>
+      <div class="card-grid" id="cards"></div>
+    </section>
+
+    <section aria-labelledby="prog-title">
+      <h2 id="prog-title">Programmes analysed</h2>
+      <p class="hint">Named programmes and policies behind the learnings that match the current filters.</p>
+      <div class="table-wrap"><table class="prog-table" id="programmes"></table></div>
+    </section>
+
+    <section aria-labelledby="sources-title">
+      <h2 id="sources-title">Sources</h2>
+      <ol class="sources" id="sources"></ol>
+      <p class="hint">Page numbers refer to the page position in the PDF file. Quotes are short excerpts, shown with links to the original reports.</p>
+    </section>
+
+    <footer class="site-footer">
+      <p>Built from <span id="footer-docs"></span> documents by Bruegel, E3G, Agora Energiewende, Ember, CEE Bankwatch Network and the Energy Community Secretariat. Learnings are AI-assisted summaries checked against verbatim quotes; outcomes are as judged by each source.</p>
+    </footer>
+  </main>
+
+  <noscript><p class="noscript">This dashboard needs JavaScript.</p></noscript>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
